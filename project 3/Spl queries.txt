@@ -1,0 +1,45 @@
+SELECT COUNT(*) AS TotalPatients
+FROM ER_Visits;
+
+SELECT Gender,
+COUNT(*) AS PatientCount
+FROM ER_Visits
+GROUP BY Gender;
+
+SELECT Diagnosis,
+COUNT(*) AS Frequency
+FROM ER_Visits
+GROUP BY Diagnosis
+ORDER BY Frequency DESC;
+
+SELECT AVG(WaitTime_Min) AS AverageWaitTime
+FROM ER_Visits;
+
+SELECT AVG(LengthOfStay_Hrs) AS AvgLengthOfStay
+FROM ER_Visits;
+
+SELECT Diagnosis,
+SUM(BillAmount) AS TotalRevenue
+FROM ER_Visits
+GROUP BY Diagnosis
+ORDER BY TotalRevenue DESC;
+
+SELECT Doctor,
+COUNT(*) AS PatientsSeen
+FROM ER_Visits
+GROUP BY Doctor
+ORDER BY PatientsSeen DESC;
+
+SELECT *
+FROM ER_Visits
+WHERE Severity='Critical';
+
+SELECT *
+FROM ER_Visits
+ORDER BY BillAmount DESC
+LIMIT 10;
+
+SELECT Severity,
+AVG(BillAmount) AS AverageBill
+FROM ER_Visits
+GROUP BY Severity;

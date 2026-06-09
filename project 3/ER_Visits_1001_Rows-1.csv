@@ -1,0 +1,1002 @@
+VisitID,PatientID,Age,Gender,Diagnosis,Severity,WaitTime_Min,LengthOfStay_Hrs,Doctor,Insurance,BillAmount
+1001,P0001,52,Male,Pneumonia,Critical,139,39.6,Dr. Brown,Public,855515.91
+1002,P0002,15,Male,Gastroenteritis,Mild,83,65.0,Dr. Smith,Self-Pay,40062.54
+1003,P0003,72,Female,Hypertension,Moderate,18,25.1,Dr. Adams,Public,511435.58
+1004,P0004,61,Male,Asthma,Mild,151,52.9,Dr. Adams,Public,934400.1
+1005,P0005,21,Male,Fracture,Moderate,132,47.6,Dr. Taylor,Public,416398.55
+1006,P0006,83,Male,Diabetes,Moderate,58,67.1,Dr. Brown,Private,683028.47
+1007,P0007,87,Male,Pneumonia,Critical,152,59.2,Dr. Adams,Public,257900.39
+1008,P0008,75,Male,Gastroenteritis,Moderate,33,41.0,Dr. Taylor,Self-Pay,894264.54
+1009,P0009,75,Male,Heart Failure,Mild,28,47.5,Dr. Johnson,Self-Pay,76950.74
+1010,P0010,88,Male,Diabetes,Mild,86,64.7,Dr. Taylor,Public,1025263.03
+1011,P0011,24,Male,Asthma,Mild,67,29.1,Dr. Johnson,Public,249862.72
+1012,P0012,3,Male,Appendicitis,Mild,109,23.9,Dr. Johnson,Public,1051161.67
+1013,P0013,22,Male,Fracture,Mild,61,1.3,Dr. Adams,Self-Pay,432747.15
+1014,P0014,53,Female,Malaria,Severe,140,59.6,Dr. Taylor,Self-Pay,871380.04
+1015,P0015,2,Female,Asthma,Moderate,66,57.8,Dr. Johnson,Private,393281.98
+1016,P0016,88,Male,Asthma,Moderate,161,8.0,Dr. Brown,Private,1088505.33
+1017,P0017,30,Female,Appendicitis,Mild,21,41.7,Dr. Adams,Private,165064.99
+1018,P0018,38,Female,Stroke,Severe,70,33.7,Dr. Taylor,Self-Pay,226545.95
+1019,P0019,2,Male,Appendicitis,Severe,10,9.0,Dr. Taylor,Private,599240.7
+1020,P0020,64,Male,Stroke,Mild,62,70.6,Dr. Wilson,Public,112097.05
+1021,P0021,60,Male,Stroke,Severe,73,15.9,Dr. Taylor,Public,247236.52
+1022,P0022,21,Female,Pneumonia,Moderate,160,5.3,Dr. Adams,Self-Pay,1133363.16
+1023,P0023,33,Female,Pneumonia,Mild,66,43.0,Dr. Brown,Private,1172140.25
+1024,P0024,76,Male,Hypertension,Moderate,173,53.3,Dr. Taylor,Public,460867.31
+1025,P0025,58,Male,Gastroenteritis,Moderate,86,2.8,Dr. Wilson,Self-Pay,1109093.93
+1026,P0026,22,Male,Gastroenteritis,Mild,173,47.6,Dr. Adams,Private,660617.24
+1027,P0027,89,Female,Malaria,Critical,75,38.6,Dr. Johnson,Public,334644.82
+1028,P0028,49,Female,Gastroenteritis,Severe,135,7.9,Dr. Smith,Private,847342.48
+1029,P0029,59,Female,Pneumonia,Moderate,14,12.8,Dr. Smith,Self-Pay,795798.64
+1030,P0030,42,Female,Hypertension,Moderate,102,41.1,Dr. Johnson,Private,1187113.5
+1031,P0031,60,Male,Hypertension,Moderate,93,21.7,Dr. Taylor,Self-Pay,329081.04
+1032,P0032,80,Male,Stroke,Moderate,39,67.6,Dr. Smith,Private,811390.51
+1033,P0033,15,Male,Appendicitis,Moderate,6,59.0,Dr. Smith,Public,76648.15
+1034,P0034,62,Male,Malaria,Mild,128,70.8,Dr. Johnson,Self-Pay,149670.56
+1035,P0035,62,Female,Stroke,Moderate,28,19.1,Dr. Taylor,Self-Pay,19643.27
+1036,P0036,47,Female,Appendicitis,Severe,78,69.8,Dr. Taylor,Self-Pay,1199360.91
+1037,P0037,62,Male,Gastroenteritis,Moderate,170,31.3,Dr. Johnson,Private,965694.33
+1038,P0038,51,Male,Stroke,Mild,26,25.3,Dr. Taylor,Private,947266.77
+1039,P0039,55,Female,Diabetes,Severe,158,4.1,Dr. Taylor,Public,619025.4
+1040,P0040,64,Male,Gastroenteritis,Mild,175,4.3,Dr. Adams,Self-Pay,370579.49
+1041,P0041,3,Female,Appendicitis,Mild,43,50.0,Dr. Adams,Self-Pay,194248.18
+1042,P0042,51,Male,Malaria,Mild,161,33.2,Dr. Johnson,Private,352339.57
+1043,P0043,7,Male,Appendicitis,Mild,24,16.7,Dr. Brown,Private,460525.9
+1044,P0044,21,Male,Stroke,Severe,45,44.4,Dr. Smith,Public,911227.46
+1045,P0045,73,Male,Stroke,Moderate,152,18.6,Dr. Adams,Public,654499.22
+1046,P0046,39,Male,Asthma,Mild,112,41.8,Dr. Smith,Private,106818.1
+1047,P0047,18,Male,Malaria,Severe,151,26.2,Dr. Wilson,Self-Pay,36364.38
+1048,P0048,4,Male,Heart Failure,Severe,88,59.4,Dr. Johnson,Public,136263.63
+1049,P0049,89,Female,Gastroenteritis,Severe,115,59.2,Dr. Brown,Private,501440.98
+1050,P0050,60,Female,Hypertension,Mild,70,34.6,Dr. Wilson,Private,1120833.61
+1051,P0051,14,Female,Malaria,Moderate,162,25.6,Dr. Wilson,Self-Pay,770321.94
+1052,P0052,9,Female,Hypertension,Critical,57,26.4,Dr. Taylor,Private,965163.69
+1053,P0053,53,Female,Malaria,Severe,38,58.1,Dr. Wilson,Private,567653.89
+1054,P0054,2,Male,Malaria,Mild,154,24.0,Dr. Johnson,Public,443574.31
+1055,P0055,84,Male,Appendicitis,Mild,71,15.4,Dr. Adams,Private,143454.44
+1056,P0056,60,Female,Malaria,Moderate,138,6.6,Dr. Johnson,Private,1052980.63
+1057,P0057,71,Male,Asthma,Critical,31,33.9,Dr. Adams,Public,943044.63
+1058,P0058,44,Female,Heart Failure,Moderate,14,35.0,Dr. Wilson,Self-Pay,214219.95
+1059,P0059,8,Female,Stroke,Moderate,77,60.6,Dr. Wilson,Self-Pay,622028.77
+1060,P0060,47,Male,Fracture,Mild,100,16.3,Dr. Brown,Public,592539.15
+1061,P0061,35,Male,Hypertension,Moderate,52,27.7,Dr. Adams,Public,755733.49
+1062,P0062,78,Male,Stroke,Severe,74,58.3,Dr. Wilson,Self-Pay,1136231.47
+1063,P0063,81,Female,Fracture,Moderate,104,59.4,Dr. Taylor,Self-Pay,702029.16
+1064,P0064,36,Male,Heart Failure,Severe,63,28.0,Dr. Smith,Self-Pay,655157.46
+1065,P0065,50,Female,Heart Failure,Critical,6,33.3,Dr. Brown,Self-Pay,74632.68
+1066,P0066,4,Female,Hypertension,Mild,161,22.2,Dr. Johnson,Self-Pay,89545.36
+1067,P0067,2,Female,Hypertension,Moderate,69,67.2,Dr. Brown,Public,237005.95
+1068,P0068,6,Male,Heart Failure,Mild,87,9.0,Dr. Smith,Private,53477.86
+1069,P0069,54,Male,Fracture,Severe,158,67.3,Dr. Adams,Self-Pay,895873.18
+1070,P0070,4,Female,Malaria,Moderate,14,49.4,Dr. Johnson,Self-Pay,872146.41
+1071,P0071,54,Male,Gastroenteritis,Moderate,57,38.5,Dr. Johnson,Private,176226.64
+1072,P0072,63,Male,Diabetes,Severe,83,2.8,Dr. Adams,Private,1005753.5
+1073,P0073,18,Male,Stroke,Moderate,63,34.5,Dr. Brown,Private,198421.45
+1074,P0074,44,Female,Appendicitis,Critical,154,29.7,Dr. Wilson,Private,371893.07
+1075,P0075,34,Female,Stroke,Moderate,52,12.0,Dr. Brown,Private,310037.63
+1076,P0076,74,Male,Appendicitis,Mild,153,47.4,Dr. Smith,Private,456183.91
+1077,P0077,62,Female,Fracture,Moderate,127,69.9,Dr. Taylor,Public,316776.56
+1078,P0078,14,Male,Appendicitis,Severe,26,40.7,Dr. Wilson,Private,594406.85
+1079,P0079,48,Male,Hypertension,Mild,104,51.6,Dr. Brown,Private,497778.34
+1080,P0080,15,Male,Gastroenteritis,Severe,102,5.4,Dr. Taylor,Public,1184084.85
+1081,P0081,72,Male,Gastroenteritis,Critical,162,30.4,Dr. Taylor,Private,81272.72
+1082,P0082,78,Female,Hypertension,Mild,29,8.8,Dr. Adams,Self-Pay,183484.93
+1083,P0083,87,Female,Asthma,Critical,32,44.3,Dr. Smith,Self-Pay,77598.68
+1084,P0084,62,Female,Fracture,Mild,117,67.6,Dr. Smith,Private,756621.82
+1085,P0085,40,Male,Asthma,Mild,49,47.8,Dr. Smith,Public,79593.49
+1086,P0086,85,Male,Asthma,Mild,72,6.0,Dr. Wilson,Self-Pay,1006181.09
+1087,P0087,80,Male,Stroke,Severe,11,25.9,Dr. Johnson,Public,621647.28
+1088,P0088,82,Female,Heart Failure,Moderate,53,39.9,Dr. Wilson,Self-Pay,639504.04
+1089,P0089,53,Male,Stroke,Mild,141,29.3,Dr. Brown,Private,680489.49
+1090,P0090,24,Female,Heart Failure,Moderate,168,60.1,Dr. Taylor,Public,217414.24
+1091,P0091,26,Female,Diabetes,Moderate,87,58.7,Dr. Taylor,Public,249263.01
+1092,P0092,89,Female,Appendicitis,Mild,133,44.2,Dr. Johnson,Public,392798.53
+1093,P0093,60,Female,Heart Failure,Severe,142,27.2,Dr. Brown,Self-Pay,718293.25
+1094,P0094,41,Female,Hypertension,Severe,168,18.8,Dr. Johnson,Self-Pay,263989.56
+1095,P0095,29,Female,Stroke,Moderate,77,8.1,Dr. Taylor,Self-Pay,152853.1
+1096,P0096,15,Male,Fracture,Critical,50,25.9,Dr. Wilson,Private,1164588.51
+1097,P0097,45,Male,Appendicitis,Moderate,110,30.0,Dr. Smith,Self-Pay,41048.45
+1098,P0098,65,Female,Diabetes,Critical,164,48.8,Dr. Taylor,Private,966196.43
+1099,P0099,89,Female,Heart Failure,Moderate,36,47.6,Dr. Adams,Public,948821.65
+1100,P0100,71,Male,Diabetes,Moderate,10,5.5,Dr. Smith,Public,367198.72
+1101,P0101,9,Female,Fracture,Mild,180,28.8,Dr. Taylor,Private,175717.54
+1102,P0102,88,Female,Asthma,Severe,170,13.5,Dr. Wilson,Self-Pay,187569.95
+1103,P0103,1,Male,Gastroenteritis,Moderate,149,11.7,Dr. Johnson,Private,841456.47
+1104,P0104,8,Female,Fracture,Mild,78,59.7,Dr. Smith,Public,776725.81
+1105,P0105,88,Female,Pneumonia,Mild,118,3.5,Dr. Wilson,Public,942553.62
+1106,P0106,63,Female,Fracture,Moderate,31,30.5,Dr. Brown,Private,1125915.19
+1107,P0107,11,Male,Diabetes,Moderate,58,12.5,Dr. Adams,Self-Pay,834933.93
+1108,P0108,81,Male,Hypertension,Severe,167,63.4,Dr. Smith,Self-Pay,199684.07
+1109,P0109,8,Male,Stroke,Severe,89,40.3,Dr. Johnson,Private,303479.5
+1110,P0110,35,Female,Hypertension,Mild,131,17.0,Dr. Brown,Private,1012999.57
+1111,P0111,35,Female,Diabetes,Severe,157,36.4,Dr. Wilson,Self-Pay,263027.7
+1112,P0112,33,Male,Stroke,Mild,160,52.8,Dr. Adams,Public,100938.95
+1113,P0113,5,Female,Pneumonia,Severe,115,69.0,Dr. Johnson,Private,848386.86
+1114,P0114,41,Female,Gastroenteritis,Severe,19,16.3,Dr. Wilson,Self-Pay,491993.73
+1115,P0115,28,Female,Appendicitis,Moderate,136,63.9,Dr. Wilson,Self-Pay,1105247.46
+1116,P0116,7,Female,Diabetes,Severe,97,67.3,Dr. Smith,Public,785552.26
+1117,P0117,73,Female,Heart Failure,Mild,127,66.0,Dr. Smith,Public,122146.49
+1118,P0118,72,Male,Diabetes,Moderate,77,45.9,Dr. Johnson,Public,1138210.03
+1119,P0119,12,Female,Diabetes,Severe,159,45.5,Dr. Taylor,Public,321390.36
+1120,P0120,34,Male,Stroke,Moderate,158,29.3,Dr. Taylor,Public,414596.8
+1121,P0121,33,Female,Malaria,Moderate,151,54.3,Dr. Wilson,Private,491678.59
+1122,P0122,48,Male,Fracture,Moderate,96,38.5,Dr. Smith,Self-Pay,75700.79
+1123,P0123,23,Female,Malaria,Severe,21,48.9,Dr. Adams,Private,603370.78
+1124,P0124,62,Male,Pneumonia,Mild,47,31.1,Dr. Adams,Private,161132.41
+1125,P0125,88,Female,Heart Failure,Mild,125,52.8,Dr. Wilson,Private,490149.84
+1126,P0126,37,Male,Gastroenteritis,Severe,45,59.4,Dr. Smith,Private,430591.1
+1127,P0127,44,Female,Asthma,Severe,174,11.0,Dr. Johnson,Private,930815.5
+1128,P0128,86,Male,Pneumonia,Mild,172,60.1,Dr. Johnson,Public,966757.06
+1129,P0129,35,Female,Asthma,Mild,43,39.1,Dr. Johnson,Public,196794.27
+1130,P0130,65,Male,Asthma,Mild,117,60.9,Dr. Adams,Self-Pay,449363.16
+1131,P0131,47,Male,Gastroenteritis,Mild,155,31.3,Dr. Smith,Private,457423.5
+1132,P0132,78,Female,Hypertension,Moderate,115,27.6,Dr. Smith,Self-Pay,194421.38
+1133,P0133,3,Female,Malaria,Severe,51,65.9,Dr. Adams,Public,961167.4
+1134,P0134,1,Male,Diabetes,Moderate,67,18.5,Dr. Johnson,Public,853065.57
+1135,P0135,5,Female,Appendicitis,Moderate,114,60.9,Dr. Johnson,Public,240602.42
+1136,P0136,14,Male,Asthma,Moderate,73,35.1,Dr. Wilson,Private,449565.46
+1137,P0137,27,Male,Heart Failure,Severe,47,37.3,Dr. Taylor,Private,140378.95
+1138,P0138,9,Male,Pneumonia,Moderate,180,22.6,Dr. Brown,Public,759424.82
+1139,P0139,79,Female,Hypertension,Critical,38,41.5,Dr. Taylor,Self-Pay,158825.73
+1140,P0140,15,Male,Asthma,Moderate,44,23.8,Dr. Smith,Self-Pay,1183331.99
+1141,P0141,42,Male,Hypertension,Mild,65,3.3,Dr. Smith,Public,940108.26
+1142,P0142,77,Female,Hypertension,Moderate,66,19.9,Dr. Smith,Self-Pay,477432.68
+1143,P0143,51,Female,Asthma,Mild,62,1.0,Dr. Taylor,Public,700598.26
+1144,P0144,63,Female,Stroke,Moderate,165,70.5,Dr. Brown,Self-Pay,1094940.05
+1145,P0145,52,Female,Fracture,Mild,79,69.6,Dr. Wilson,Public,671607.65
+1146,P0146,4,Male,Heart Failure,Mild,20,28.8,Dr. Taylor,Self-Pay,221780.71
+1147,P0147,23,Male,Diabetes,Severe,86,52.6,Dr. Brown,Private,463763.48
+1148,P0148,15,Male,Diabetes,Mild,98,25.2,Dr. Johnson,Public,1014126.67
+1149,P0149,43,Male,Heart Failure,Severe,52,48.5,Dr. Johnson,Public,778392.42
+1150,P0150,29,Female,Stroke,Mild,142,58.1,Dr. Smith,Self-Pay,786108.4
+1151,P0151,36,Male,Diabetes,Moderate,86,68.2,Dr. Adams,Public,1042183.46
+1152,P0152,13,Male,Hypertension,Moderate,42,29.1,Dr. Smith,Public,1074358.07
+1153,P0153,32,Female,Gastroenteritis,Moderate,131,56.5,Dr. Adams,Public,1104954.2
+1154,P0154,71,Male,Pneumonia,Mild,23,19.5,Dr. Brown,Private,127396.29
+1155,P0155,59,Male,Malaria,Mild,168,71.3,Dr. Johnson,Private,659789.31
+1156,P0156,86,Male,Diabetes,Mild,67,2.3,Dr. Taylor,Self-Pay,892503.78
+1157,P0157,28,Male,Heart Failure,Mild,81,43.7,Dr. Adams,Private,911958.31
+1158,P0158,66,Male,Gastroenteritis,Moderate,178,47.7,Dr. Brown,Self-Pay,733958.7
+1159,P0159,42,Male,Asthma,Critical,135,49.7,Dr. Johnson,Private,212642.99
+1160,P0160,45,Female,Fracture,Severe,106,9.1,Dr. Taylor,Self-Pay,959943.36
+1161,P0161,62,Female,Heart Failure,Severe,69,67.6,Dr. Adams,Private,868331.93
+1162,P0162,57,Male,Hypertension,Severe,124,13.5,Dr. Smith,Private,117070.89
+1163,P0163,6,Male,Fracture,Moderate,95,45.0,Dr. Smith,Self-Pay,564614.64
+1164,P0164,28,Female,Pneumonia,Mild,12,16.4,Dr. Smith,Public,221163.22
+1165,P0165,28,Male,Pneumonia,Critical,77,22.5,Dr. Brown,Public,414910.3
+1166,P0166,44,Male,Stroke,Moderate,138,39.6,Dr. Smith,Private,36426.09
+1167,P0167,84,Male,Appendicitis,Moderate,111,30.3,Dr. Wilson,Self-Pay,489390.89
+1168,P0168,30,Female,Stroke,Mild,93,12.0,Dr. Johnson,Public,666604.15
+1169,P0169,62,Male,Gastroenteritis,Moderate,43,12.7,Dr. Brown,Self-Pay,749205.37
+1170,P0170,75,Female,Fracture,Moderate,117,30.4,Dr. Taylor,Public,801236.06
+1171,P0171,89,Male,Appendicitis,Severe,32,54.6,Dr. Smith,Self-Pay,1006005.21
+1172,P0172,62,Female,Asthma,Moderate,101,64.7,Dr. Johnson,Private,270323.55
+1173,P0173,1,Female,Hypertension,Moderate,41,6.5,Dr. Adams,Self-Pay,157770.96
+1174,P0174,27,Male,Fracture,Critical,141,28.6,Dr. Smith,Public,1024071.55
+1175,P0175,62,Female,Stroke,Mild,86,7.7,Dr. Johnson,Private,200586.19
+1176,P0176,77,Male,Malaria,Moderate,60,1.7,Dr. Wilson,Self-Pay,1170090.7
+1177,P0177,3,Female,Appendicitis,Mild,89,47.8,Dr. Adams,Public,1013407.8
+1178,P0178,70,Male,Appendicitis,Severe,6,43.6,Dr. Wilson,Private,608538.78
+1179,P0179,72,Male,Hypertension,Critical,62,12.2,Dr. Taylor,Self-Pay,1177984.39
+1180,P0180,27,Female,Diabetes,Mild,111,17.2,Dr. Johnson,Public,130391.42
+1181,P0181,9,Male,Pneumonia,Severe,127,2.2,Dr. Wilson,Self-Pay,374132.93
+1182,P0182,62,Male,Pneumonia,Mild,172,60.2,Dr. Taylor,Self-Pay,771295.93
+1183,P0183,37,Female,Malaria,Critical,168,70.2,Dr. Johnson,Private,429758.14
+1184,P0184,51,Male,Gastroenteritis,Severe,118,10.2,Dr. Johnson,Private,1115121.47
+1185,P0185,44,Male,Gastroenteritis,Severe,111,17.1,Dr. Wilson,Public,92766.91
+1186,P0186,24,Female,Asthma,Mild,41,62.6,Dr. Johnson,Private,666053.02
+1187,P0187,79,Female,Fracture,Critical,83,66.7,Dr. Smith,Public,715176.53
+1188,P0188,59,Male,Heart Failure,Severe,96,30.5,Dr. Johnson,Self-Pay,788482.83
+1189,P0189,32,Male,Diabetes,Mild,22,4.1,Dr. Brown,Self-Pay,317964.47
+1190,P0190,88,Female,Stroke,Severe,102,3.3,Dr. Taylor,Public,447011.22
+1191,P0191,52,Female,Heart Failure,Mild,67,41.5,Dr. Johnson,Self-Pay,1014761.43
+1192,P0192,62,Male,Heart Failure,Severe,154,28.6,Dr. Brown,Private,246007.18
+1193,P0193,58,Female,Appendicitis,Mild,143,2.5,Dr. Johnson,Self-Pay,994838.4
+1194,P0194,52,Male,Malaria,Severe,8,42.2,Dr. Johnson,Private,681746.68
+1195,P0195,12,Male,Pneumonia,Moderate,139,1.3,Dr. Wilson,Public,918192.2
+1196,P0196,39,Male,Asthma,Mild,65,56.8,Dr. Smith,Public,860624.73
+1197,P0197,2,Male,Gastroenteritis,Mild,111,22.4,Dr. Taylor,Self-Pay,260901.12
+1198,P0198,3,Male,Malaria,Mild,58,3.4,Dr. Smith,Self-Pay,689043.09
+1199,P0199,56,Female,Appendicitis,Moderate,92,42.6,Dr. Adams,Private,1043251.94
+1200,P0200,81,Female,Stroke,Mild,72,28.9,Dr. Wilson,Private,527057.74
+1201,P0201,59,Female,Asthma,Moderate,133,70.1,Dr. Wilson,Self-Pay,1160410.06
+1202,P0202,2,Female,Appendicitis,Mild,59,39.4,Dr. Smith,Self-Pay,550874.89
+1203,P0203,2,Male,Pneumonia,Mild,7,20.2,Dr. Wilson,Public,184200.98
+1204,P0204,54,Male,Pneumonia,Severe,170,51.2,Dr. Smith,Public,476480.1
+1205,P0205,87,Male,Pneumonia,Mild,125,19.9,Dr. Wilson,Public,1142767.35
+1206,P0206,1,Male,Malaria,Critical,133,65.2,Dr. Johnson,Self-Pay,393869.21
+1207,P0207,19,Female,Malaria,Severe,106,27.3,Dr. Smith,Self-Pay,1043696.32
+1208,P0208,2,Male,Gastroenteritis,Moderate,42,39.8,Dr. Smith,Self-Pay,1059282.06
+1209,P0209,53,Male,Gastroenteritis,Moderate,89,4.1,Dr. Brown,Public,429971.03
+1210,P0210,44,Female,Stroke,Severe,161,31.0,Dr. Wilson,Self-Pay,113660.32
+1211,P0211,32,Female,Asthma,Mild,137,60.0,Dr. Wilson,Private,873601.12
+1212,P0212,70,Female,Hypertension,Mild,96,58.1,Dr. Smith,Self-Pay,384142.07
+1213,P0213,32,Female,Hypertension,Mild,25,16.5,Dr. Johnson,Self-Pay,942764.48
+1214,P0214,68,Male,Appendicitis,Severe,113,16.7,Dr. Johnson,Self-Pay,539546.0
+1215,P0215,55,Male,Pneumonia,Mild,51,58.9,Dr. Taylor,Self-Pay,590041.09
+1216,P0216,75,Female,Asthma,Moderate,88,67.0,Dr. Johnson,Self-Pay,936822.65
+1217,P0217,56,Male,Heart Failure,Critical,87,7.3,Dr. Wilson,Private,468100.55
+1218,P0218,17,Male,Malaria,Severe,39,32.7,Dr. Brown,Private,540105.9
+1219,P0219,38,Male,Fracture,Moderate,73,24.6,Dr. Smith,Self-Pay,460785.71
+1220,P0220,24,Female,Diabetes,Mild,133,62.8,Dr. Adams,Public,450298.51
+1221,P0221,69,Male,Stroke,Severe,144,6.5,Dr. Brown,Self-Pay,638246.69
+1222,P0222,70,Female,Pneumonia,Moderate,31,15.6,Dr. Adams,Self-Pay,973427.34
+1223,P0223,86,Male,Pneumonia,Mild,60,54.3,Dr. Brown,Self-Pay,443695.45
+1224,P0224,11,Male,Pneumonia,Mild,27,4.2,Dr. Johnson,Public,636241.84
+1225,P0225,16,Male,Malaria,Critical,157,35.7,Dr. Wilson,Public,809811.88
+1226,P0226,73,Female,Malaria,Moderate,25,32.1,Dr. Adams,Public,334285.74
+1227,P0227,59,Male,Diabetes,Severe,65,24.4,Dr. Brown,Private,343864.52
+1228,P0228,70,Female,Heart Failure,Severe,67,28.7,Dr. Wilson,Public,1121094.56
+1229,P0229,80,Female,Asthma,Moderate,126,38.4,Dr. Adams,Private,872388.47
+1230,P0230,3,Female,Pneumonia,Moderate,56,12.0,Dr. Smith,Private,698966.21
+1231,P0231,20,Male,Hypertension,Moderate,92,41.4,Dr. Brown,Public,782548.26
+1232,P0232,59,Male,Gastroenteritis,Mild,157,58.1,Dr. Smith,Public,49719.84
+1233,P0233,36,Male,Hypertension,Moderate,59,54.9,Dr. Johnson,Public,747452.01
+1234,P0234,19,Male,Appendicitis,Severe,50,11.5,Dr. Smith,Private,618768.01
+1235,P0235,67,Female,Hypertension,Moderate,36,11.2,Dr. Smith,Self-Pay,661713.37
+1236,P0236,19,Female,Appendicitis,Severe,59,19.7,Dr. Taylor,Public,440917.23
+1237,P0237,20,Female,Fracture,Moderate,100,26.3,Dr. Brown,Public,111546.57
+1238,P0238,71,Male,Gastroenteritis,Moderate,137,29.7,Dr. Johnson,Public,244106.99
+1239,P0239,52,Female,Hypertension,Moderate,40,49.1,Dr. Smith,Private,1141632.49
+1240,P0240,33,Male,Fracture,Moderate,114,4.6,Dr. Wilson,Private,499308.98
+1241,P0241,40,Female,Stroke,Severe,110,3.0,Dr. Adams,Self-Pay,568019.54
+1242,P0242,39,Male,Asthma,Mild,62,28.5,Dr. Smith,Public,77461.1
+1243,P0243,82,Male,Fracture,Moderate,43,50.3,Dr. Johnson,Private,59515.98
+1244,P0244,1,Female,Asthma,Mild,84,14.3,Dr. Smith,Self-Pay,864860.01
+1245,P0245,11,Female,Hypertension,Moderate,101,46.4,Dr. Adams,Public,652642.18
+1246,P0246,57,Female,Heart Failure,Moderate,117,19.1,Dr. Johnson,Private,617816.59
+1247,P0247,89,Female,Fracture,Moderate,65,63.9,Dr. Brown,Public,303102.57
+1248,P0248,50,Male,Gastroenteritis,Critical,141,64.5,Dr. Johnson,Public,897529.62
+1249,P0249,23,Female,Hypertension,Moderate,10,21.8,Dr. Brown,Private,214360.35
+1250,P0250,31,Female,Pneumonia,Severe,113,16.9,Dr. Johnson,Private,240072.67
+1251,P0251,42,Female,Malaria,Moderate,39,29.9,Dr. Adams,Private,560943.92
+1252,P0252,7,Male,Fracture,Moderate,43,17.7,Dr. Adams,Public,354241.64
+1253,P0253,16,Male,Gastroenteritis,Mild,154,48.6,Dr. Johnson,Public,308243.63
+1254,P0254,60,Female,Stroke,Mild,173,59.6,Dr. Smith,Self-Pay,779606.61
+1255,P0255,2,Male,Pneumonia,Moderate,122,48.6,Dr. Adams,Public,786401.52
+1256,P0256,1,Female,Stroke,Moderate,9,59.4,Dr. Brown,Private,992052.73
+1257,P0257,48,Male,Hypertension,Mild,174,28.9,Dr. Brown,Public,509984.65
+1258,P0258,12,Male,Malaria,Mild,91,11.7,Dr. Wilson,Self-Pay,101605.83
+1259,P0259,69,Male,Fracture,Mild,80,53.3,Dr. Taylor,Self-Pay,339294.67
+1260,P0260,37,Male,Fracture,Critical,162,26.3,Dr. Taylor,Private,1176306.47
+1261,P0261,32,Female,Heart Failure,Mild,61,48.5,Dr. Taylor,Private,721566.41
+1262,P0262,9,Female,Heart Failure,Moderate,131,19.9,Dr. Brown,Self-Pay,856038.45
+1263,P0263,19,Female,Hypertension,Mild,33,6.3,Dr. Wilson,Self-Pay,23719.03
+1264,P0264,48,Male,Hypertension,Moderate,169,71.5,Dr. Taylor,Self-Pay,629073.79
+1265,P0265,80,Female,Malaria,Mild,91,11.7,Dr. Taylor,Private,59471.46
+1266,P0266,3,Female,Heart Failure,Mild,145,71.2,Dr. Johnson,Self-Pay,689537.8
+1267,P0267,20,Female,Gastroenteritis,Moderate,164,70.4,Dr. Johnson,Self-Pay,1106113.46
+1268,P0268,24,Male,Gastroenteritis,Mild,50,57.3,Dr. Johnson,Private,1162576.67
+1269,P0269,54,Male,Malaria,Mild,120,47.6,Dr. Smith,Public,655554.92
+1270,P0270,33,Male,Gastroenteritis,Mild,116,41.8,Dr. Taylor,Public,557972.69
+1271,P0271,24,Female,Appendicitis,Mild,155,62.4,Dr. Smith,Self-Pay,1134845.26
+1272,P0272,75,Female,Asthma,Mild,49,21.2,Dr. Wilson,Public,813227.65
+1273,P0273,72,Female,Malaria,Mild,149,33.9,Dr. Brown,Public,91905.65
+1274,P0274,36,Male,Malaria,Severe,108,44.8,Dr. Taylor,Public,566884.81
+1275,P0275,38,Male,Diabetes,Moderate,89,29.9,Dr. Brown,Public,299690.35
+1276,P0276,84,Female,Pneumonia,Moderate,138,31.1,Dr. Johnson,Self-Pay,571718.12
+1277,P0277,89,Male,Pneumonia,Mild,112,24.1,Dr. Taylor,Public,554726.7
+1278,P0278,25,Male,Appendicitis,Critical,22,40.8,Dr. Adams,Public,704841.59
+1279,P0279,18,Male,Heart Failure,Moderate,98,61.3,Dr. Smith,Private,437773.03
+1280,P0280,82,Male,Hypertension,Mild,154,14.9,Dr. Smith,Self-Pay,209660.48
+1281,P0281,66,Female,Hypertension,Moderate,37,67.3,Dr. Taylor,Private,611907.53
+1282,P0282,54,Male,Stroke,Mild,162,49.8,Dr. Johnson,Private,998790.42
+1283,P0283,35,Male,Appendicitis,Mild,130,59.4,Dr. Smith,Self-Pay,801854.49
+1284,P0284,80,Male,Malaria,Moderate,164,40.3,Dr. Johnson,Public,415965.92
+1285,P0285,61,Male,Appendicitis,Severe,174,56.2,Dr. Wilson,Private,1123594.78
+1286,P0286,41,Female,Appendicitis,Moderate,126,1.7,Dr. Brown,Self-Pay,1095965.97
+1287,P0287,33,Female,Appendicitis,Severe,142,59.0,Dr. Adams,Public,263077.85
+1288,P0288,68,Male,Pneumonia,Critical,119,3.4,Dr. Brown,Self-Pay,61709.84
+1289,P0289,33,Male,Appendicitis,Mild,168,64.1,Dr. Brown,Private,893450.82
+1290,P0290,14,Male,Asthma,Mild,166,71.4,Dr. Wilson,Public,995718.16
+1291,P0291,21,Male,Hypertension,Moderate,32,21.5,Dr. Smith,Public,1161919.51
+1292,P0292,48,Male,Stroke,Moderate,15,15.5,Dr. Adams,Self-Pay,1069456.13
+1293,P0293,20,Male,Asthma,Moderate,171,55.2,Dr. Smith,Public,726633.7
+1294,P0294,8,Female,Stroke,Critical,51,18.6,Dr. Taylor,Private,643112.02
+1295,P0295,7,Male,Diabetes,Severe,131,62.4,Dr. Brown,Private,47991.65
+1296,P0296,67,Female,Stroke,Moderate,151,7.9,Dr. Taylor,Private,307287.89
+1297,P0297,17,Female,Hypertension,Mild,122,9.5,Dr. Johnson,Self-Pay,559643.48
+1298,P0298,33,Male,Hypertension,Severe,147,70.5,Dr. Brown,Public,759777.12
+1299,P0299,48,Female,Appendicitis,Critical,130,48.7,Dr. Smith,Public,675343.42
+1300,P0300,76,Female,Fracture,Severe,160,61.1,Dr. Brown,Public,895023.65
+1301,P0301,59,Female,Diabetes,Mild,156,23.7,Dr. Johnson,Private,346523.81
+1302,P0302,86,Female,Malaria,Moderate,76,48.9,Dr. Wilson,Public,684468.84
+1303,P0303,22,Female,Gastroenteritis,Mild,111,43.0,Dr. Taylor,Private,119448.56
+1304,P0304,30,Female,Stroke,Mild,141,43.6,Dr. Taylor,Public,505193.65
+1305,P0305,38,Male,Fracture,Mild,179,49.3,Dr. Smith,Private,903940.59
+1306,P0306,51,Female,Appendicitis,Moderate,37,41.6,Dr. Brown,Public,836680.01
+1307,P0307,54,Female,Pneumonia,Moderate,23,31.2,Dr. Smith,Self-Pay,1188911.64
+1308,P0308,8,Female,Malaria,Mild,78,20.2,Dr. Wilson,Self-Pay,344300.98
+1309,P0309,27,Male,Heart Failure,Moderate,172,55.5,Dr. Brown,Private,605354.32
+1310,P0310,27,Female,Fracture,Moderate,179,16.7,Dr. Brown,Private,405493.54
+1311,P0311,21,Male,Pneumonia,Moderate,161,50.0,Dr. Smith,Public,537114.69
+1312,P0312,30,Female,Diabetes,Mild,102,17.2,Dr. Smith,Public,1030485.9
+1313,P0313,28,Male,Appendicitis,Moderate,145,45.2,Dr. Johnson,Self-Pay,825787.75
+1314,P0314,64,Male,Malaria,Severe,133,53.9,Dr. Wilson,Public,1060692.81
+1315,P0315,69,Female,Malaria,Mild,166,16.1,Dr. Johnson,Private,256160.66
+1316,P0316,61,Female,Malaria,Mild,97,4.8,Dr. Taylor,Private,1049932.92
+1317,P0317,48,Male,Diabetes,Moderate,180,9.9,Dr. Brown,Private,85818.29
+1318,P0318,19,Female,Stroke,Critical,52,43.8,Dr. Smith,Private,1067990.15
+1319,P0319,4,Male,Heart Failure,Moderate,68,61.2,Dr. Brown,Private,404952.43
+1320,P0320,35,Male,Diabetes,Moderate,65,3.7,Dr. Brown,Self-Pay,387786.35
+1321,P0321,64,Male,Gastroenteritis,Moderate,161,53.0,Dr. Adams,Self-Pay,621824.96
+1322,P0322,49,Male,Heart Failure,Moderate,43,24.9,Dr. Taylor,Private,1129717.87
+1323,P0323,17,Male,Hypertension,Mild,132,34.7,Dr. Adams,Public,71620.92
+1324,P0324,44,Female,Appendicitis,Moderate,92,66.9,Dr. Brown,Private,432393.71
+1325,P0325,30,Male,Diabetes,Critical,30,24.2,Dr. Smith,Self-Pay,1030037.81
+1326,P0326,46,Male,Pneumonia,Moderate,21,33.8,Dr. Brown,Private,484324.56
+1327,P0327,6,Female,Heart Failure,Severe,75,1.5,Dr. Taylor,Self-Pay,251000.92
+1328,P0328,37,Male,Gastroenteritis,Severe,17,6.3,Dr. Adams,Self-Pay,518381.1
+1329,P0329,24,Female,Hypertension,Mild,73,19.0,Dr. Smith,Private,471879.71
+1330,P0330,46,Female,Stroke,Critical,30,2.5,Dr. Brown,Private,1099768.2
+1331,P0331,53,Female,Pneumonia,Mild,53,45.6,Dr. Wilson,Public,917892.24
+1332,P0332,60,Male,Heart Failure,Moderate,11,31.0,Dr. Taylor,Self-Pay,613561.93
+1333,P0333,63,Male,Appendicitis,Mild,62,39.7,Dr. Taylor,Public,1186219.12
+1334,P0334,85,Male,Pneumonia,Mild,53,13.0,Dr. Wilson,Private,566353.87
+1335,P0335,32,Female,Hypertension,Moderate,107,21.7,Dr. Brown,Self-Pay,84011.83
+1336,P0336,87,Male,Pneumonia,Mild,57,48.0,Dr. Taylor,Public,325795.07
+1337,P0337,33,Female,Asthma,Moderate,66,69.5,Dr. Smith,Public,531743.52
+1338,P0338,67,Male,Fracture,Moderate,21,4.1,Dr. Brown,Public,200929.61
+1339,P0339,18,Female,Stroke,Mild,175,64.2,Dr. Brown,Private,1137864.67
+1340,P0340,25,Male,Hypertension,Mild,29,41.7,Dr. Adams,Private,923715.94
+1341,P0341,54,Male,Pneumonia,Moderate,135,40.8,Dr. Taylor,Private,332920.33
+1342,P0342,58,Male,Fracture,Mild,33,36.3,Dr. Taylor,Self-Pay,715103.37
+1343,P0343,67,Female,Fracture,Severe,121,5.5,Dr. Wilson,Private,869917.25
+1344,P0344,46,Female,Pneumonia,Moderate,164,6.9,Dr. Adams,Self-Pay,1130415.53
+1345,P0345,24,Male,Appendicitis,Severe,30,43.5,Dr. Adams,Public,1059737.89
+1346,P0346,32,Male,Asthma,Moderate,128,24.9,Dr. Taylor,Public,625502.79
+1347,P0347,47,Female,Diabetes,Moderate,148,66.1,Dr. Brown,Private,932963.35
+1348,P0348,86,Female,Asthma,Moderate,29,29.6,Dr. Adams,Public,681141.53
+1349,P0349,23,Female,Pneumonia,Mild,58,10.7,Dr. Wilson,Private,669954.11
+1350,P0350,66,Male,Stroke,Mild,160,51.6,Dr. Adams,Self-Pay,150969.22
+1351,P0351,27,Female,Diabetes,Severe,77,21.5,Dr. Wilson,Public,164473.12
+1352,P0352,2,Male,Hypertension,Moderate,124,38.1,Dr. Adams,Private,642497.33
+1353,P0353,17,Female,Asthma,Severe,60,50.4,Dr. Wilson,Public,333600.93
+1354,P0354,33,Male,Pneumonia,Severe,69,64.9,Dr. Adams,Public,39928.73
+1355,P0355,9,Female,Asthma,Severe,97,57.1,Dr. Adams,Private,871564.46
+1356,P0356,43,Female,Diabetes,Critical,90,48.9,Dr. Smith,Public,53496.62
+1357,P0357,48,Female,Gastroenteritis,Moderate,84,49.1,Dr. Wilson,Public,720403.06
+1358,P0358,39,Female,Heart Failure,Mild,173,68.1,Dr. Wilson,Public,653944.65
+1359,P0359,42,Female,Asthma,Moderate,112,21.7,Dr. Wilson,Public,1163045.41
+1360,P0360,26,Male,Hypertension,Moderate,122,0.6,Dr. Johnson,Self-Pay,588792.57
+1361,P0361,50,Female,Hypertension,Moderate,161,19.9,Dr. Adams,Public,90367.7
+1362,P0362,25,Female,Malaria,Severe,87,16.1,Dr. Wilson,Public,668750.24
+1363,P0363,24,Female,Asthma,Moderate,151,47.8,Dr. Taylor,Private,1011698.96
+1364,P0364,13,Male,Heart Failure,Moderate,173,45.8,Dr. Johnson,Self-Pay,1196266.4
+1365,P0365,60,Female,Appendicitis,Mild,177,42.9,Dr. Smith,Private,524956.66
+1366,P0366,7,Male,Fracture,Moderate,19,1.7,Dr. Wilson,Private,394554.01
+1367,P0367,57,Female,Heart Failure,Mild,135,52.6,Dr. Wilson,Private,1089384.16
+1368,P0368,36,Female,Fracture,Severe,143,23.6,Dr. Johnson,Self-Pay,241621.92
+1369,P0369,45,Male,Fracture,Mild,178,48.1,Dr. Adams,Private,744283.26
+1370,P0370,20,Female,Gastroenteritis,Mild,34,40.3,Dr. Taylor,Private,495771.59
+1371,P0371,65,Male,Malaria,Mild,61,25.0,Dr. Smith,Private,63682.6
+1372,P0372,8,Male,Heart Failure,Moderate,150,10.1,Dr. Wilson,Public,426536.84
+1373,P0373,16,Female,Heart Failure,Moderate,132,7.3,Dr. Adams,Private,329295.8
+1374,P0374,14,Male,Gastroenteritis,Mild,52,60.0,Dr. Taylor,Self-Pay,828018.02
+1375,P0375,76,Female,Asthma,Mild,140,66.2,Dr. Taylor,Self-Pay,1139316.74
+1376,P0376,87,Female,Asthma,Moderate,26,47.0,Dr. Smith,Public,332635.92
+1377,P0377,15,Male,Asthma,Mild,10,7.9,Dr. Brown,Self-Pay,976587.14
+1378,P0378,66,Male,Stroke,Moderate,108,29.2,Dr. Taylor,Self-Pay,80601.38
+1379,P0379,32,Male,Fracture,Moderate,40,52.6,Dr. Brown,Public,652673.4
+1380,P0380,87,Male,Stroke,Moderate,83,56.3,Dr. Taylor,Private,98601.83
+1381,P0381,63,Female,Malaria,Mild,120,9.0,Dr. Smith,Public,1121829.09
+1382,P0382,86,Female,Gastroenteritis,Critical,61,0.5,Dr. Johnson,Private,923126.27
+1383,P0383,51,Male,Heart Failure,Moderate,53,51.4,Dr. Smith,Private,794670.64
+1384,P0384,25,Female,Fracture,Moderate,177,26.0,Dr. Smith,Self-Pay,991317.21
+1385,P0385,58,Female,Stroke,Mild,86,18.7,Dr. Johnson,Public,782310.96
+1386,P0386,63,Female,Stroke,Moderate,70,1.4,Dr. Johnson,Self-Pay,1163199.11
+1387,P0387,62,Female,Pneumonia,Mild,81,39.1,Dr. Adams,Self-Pay,861040.17
+1388,P0388,22,Male,Stroke,Moderate,49,61.4,Dr. Taylor,Private,1110720.45
+1389,P0389,58,Male,Appendicitis,Critical,83,69.0,Dr. Adams,Self-Pay,627801.29
+1390,P0390,58,Female,Heart Failure,Moderate,24,41.0,Dr. Johnson,Public,153721.33
+1391,P0391,86,Male,Appendicitis,Mild,127,37.3,Dr. Brown,Self-Pay,640890.6
+1392,P0392,49,Male,Heart Failure,Mild,71,6.6,Dr. Brown,Self-Pay,165344.3
+1393,P0393,52,Male,Gastroenteritis,Moderate,87,39.7,Dr. Smith,Private,717104.77
+1394,P0394,42,Female,Heart Failure,Mild,7,27.7,Dr. Wilson,Public,586754.28
+1395,P0395,70,Female,Appendicitis,Mild,68,43.9,Dr. Smith,Self-Pay,752751.85
+1396,P0396,15,Female,Heart Failure,Severe,44,28.3,Dr. Smith,Private,26905.67
+1397,P0397,54,Male,Gastroenteritis,Moderate,63,17.7,Dr. Wilson,Self-Pay,245885.98
+1398,P0398,60,Female,Gastroenteritis,Mild,66,7.3,Dr. Taylor,Public,597226.56
+1399,P0399,8,Female,Malaria,Critical,136,23.0,Dr. Johnson,Self-Pay,1141346.72
+1400,P0400,53,Male,Heart Failure,Mild,64,7.4,Dr. Brown,Self-Pay,469576.71
+1401,P0401,60,Female,Pneumonia,Critical,120,13.1,Dr. Smith,Private,517880.85
+1402,P0402,5,Female,Asthma,Mild,79,71.1,Dr. Wilson,Self-Pay,861914.87
+1403,P0403,68,Male,Hypertension,Severe,126,32.3,Dr. Adams,Private,730494.42
+1404,P0404,6,Male,Gastroenteritis,Moderate,111,38.5,Dr. Smith,Public,369227.49
+1405,P0405,47,Male,Diabetes,Severe,100,63.0,Dr. Brown,Self-Pay,501817.43
+1406,P0406,55,Female,Asthma,Critical,95,71.7,Dr. Johnson,Public,272974.26
+1407,P0407,40,Female,Fracture,Mild,162,42.2,Dr. Smith,Public,1159735.43
+1408,P0408,52,Female,Heart Failure,Critical,134,58.6,Dr. Smith,Self-Pay,169801.74
+1409,P0409,16,Male,Appendicitis,Moderate,66,23.9,Dr. Taylor,Private,455626.59
+1410,P0410,13,Male,Hypertension,Moderate,53,22.4,Dr. Wilson,Public,45619.18
+1411,P0411,30,Female,Diabetes,Mild,141,29.3,Dr. Adams,Public,277808.7
+1412,P0412,19,Female,Asthma,Moderate,96,48.6,Dr. Adams,Self-Pay,939858.3
+1413,P0413,17,Male,Heart Failure,Mild,163,49.3,Dr. Johnson,Self-Pay,253392.65
+1414,P0414,63,Male,Malaria,Moderate,128,23.0,Dr. Brown,Self-Pay,109875.13
+1415,P0415,19,Male,Fracture,Moderate,65,10.0,Dr. Johnson,Self-Pay,577227.02
+1416,P0416,58,Male,Hypertension,Severe,52,45.7,Dr. Smith,Self-Pay,26813.54
+1417,P0417,55,Female,Pneumonia,Severe,157,9.7,Dr. Smith,Self-Pay,115447.89
+1418,P0418,62,Male,Malaria,Moderate,168,41.9,Dr. Adams,Private,972036.66
+1419,P0419,23,Female,Diabetes,Mild,140,50.1,Dr. Brown,Public,929195.91
+1420,P0420,9,Female,Hypertension,Mild,62,50.6,Dr. Wilson,Private,1099439.5
+1421,P0421,12,Female,Malaria,Mild,105,54.4,Dr. Brown,Private,1027600.79
+1422,P0422,1,Male,Fracture,Mild,116,62.9,Dr. Smith,Self-Pay,824563.04
+1423,P0423,58,Male,Pneumonia,Mild,177,36.2,Dr. Wilson,Public,77014.44
+1424,P0424,1,Male,Malaria,Mild,66,52.7,Dr. Brown,Private,942675.61
+1425,P0425,34,Male,Stroke,Critical,43,44.8,Dr. Brown,Self-Pay,1016930.31
+1426,P0426,48,Female,Pneumonia,Moderate,62,13.8,Dr. Wilson,Self-Pay,961912.34
+1427,P0427,89,Male,Diabetes,Mild,103,2.3,Dr. Smith,Public,617547.66
+1428,P0428,1,Male,Fracture,Moderate,48,20.8,Dr. Brown,Private,290988.68
+1429,P0429,16,Female,Heart Failure,Mild,33,32.2,Dr. Wilson,Private,1016716.02
+1430,P0430,61,Male,Appendicitis,Moderate,63,44.6,Dr. Taylor,Private,876687.93
+1431,P0431,64,Female,Appendicitis,Moderate,75,61.3,Dr. Taylor,Self-Pay,1177201.99
+1432,P0432,63,Female,Appendicitis,Moderate,96,14.5,Dr. Smith,Public,199495.73
+1433,P0433,69,Female,Hypertension,Moderate,13,9.5,Dr. Wilson,Public,282412.53
+1434,P0434,22,Female,Diabetes,Critical,131,69.4,Dr. Taylor,Private,265980.81
+1435,P0435,67,Female,Fracture,Severe,138,8.2,Dr. Wilson,Self-Pay,954159.62
+1436,P0436,76,Female,Pneumonia,Moderate,161,34.7,Dr. Brown,Private,236485.15
+1437,P0437,26,Female,Hypertension,Moderate,149,42.4,Dr. Smith,Public,93991.9
+1438,P0438,16,Female,Diabetes,Moderate,148,39.2,Dr. Taylor,Self-Pay,1198294.56
+1439,P0439,51,Male,Heart Failure,Mild,135,6.7,Dr. Brown,Private,44408.4
+1440,P0440,86,Male,Stroke,Moderate,25,4.6,Dr. Johnson,Private,1004764.21
+1441,P0441,57,Male,Fracture,Mild,68,8.0,Dr. Johnson,Self-Pay,447959.71
+1442,P0442,29,Male,Appendicitis,Moderate,94,42.4,Dr. Smith,Public,1012314.32
+1443,P0443,78,Female,Malaria,Moderate,40,39.4,Dr. Taylor,Self-Pay,672225.28
+1444,P0444,69,Male,Fracture,Mild,66,17.2,Dr. Taylor,Private,1083433.01
+1445,P0445,47,Female,Gastroenteritis,Critical,174,46.1,Dr. Taylor,Private,1112538.69
+1446,P0446,62,Male,Diabetes,Critical,80,59.1,Dr. Wilson,Private,25781.34
+1447,P0447,69,Male,Asthma,Severe,174,3.5,Dr. Brown,Private,104363.43
+1448,P0448,76,Male,Heart Failure,Moderate,17,36.1,Dr. Taylor,Public,311675.09
+1449,P0449,16,Female,Stroke,Severe,15,49.8,Dr. Brown,Public,808138.77
+1450,P0450,48,Male,Heart Failure,Mild,58,18.5,Dr. Smith,Private,1067602.55
+1451,P0451,85,Female,Fracture,Severe,20,22.5,Dr. Taylor,Public,560031.21
+1452,P0452,39,Female,Asthma,Mild,12,44.4,Dr. Smith,Public,734263.14
+1453,P0453,33,Male,Gastroenteritis,Severe,108,64.7,Dr. Taylor,Public,238372.33
+1454,P0454,23,Male,Pneumonia,Mild,63,58.4,Dr. Johnson,Private,968885.7
+1455,P0455,10,Male,Malaria,Severe,61,42.2,Dr. Adams,Self-Pay,1161283.81
+1456,P0456,69,Female,Asthma,Critical,44,52.7,Dr. Smith,Self-Pay,333289.74
+1457,P0457,34,Male,Diabetes,Mild,134,26.6,Dr. Taylor,Self-Pay,601368.75
+1458,P0458,52,Female,Appendicitis,Moderate,98,46.3,Dr. Adams,Private,117047.59
+1459,P0459,10,Female,Gastroenteritis,Critical,142,33.8,Dr. Smith,Public,677576.94
+1460,P0460,19,Male,Malaria,Moderate,48,14.1,Dr. Wilson,Public,610798.38
+1461,P0461,58,Male,Stroke,Severe,143,50.7,Dr. Taylor,Private,186157.23
+1462,P0462,1,Female,Appendicitis,Moderate,84,40.3,Dr. Wilson,Private,538848.46
+1463,P0463,69,Female,Fracture,Moderate,85,26.1,Dr. Johnson,Self-Pay,410914.01
+1464,P0464,4,Female,Asthma,Mild,6,65.7,Dr. Taylor,Self-Pay,633369.59
+1465,P0465,16,Male,Malaria,Mild,144,2.0,Dr. Johnson,Private,709000.39
+1466,P0466,24,Female,Hypertension,Severe,119,23.1,Dr. Adams,Self-Pay,25067.26
+1467,P0467,80,Male,Pneumonia,Moderate,94,4.6,Dr. Smith,Public,916792.09
+1468,P0468,2,Female,Pneumonia,Moderate,27,55.3,Dr. Brown,Private,859921.94
+1469,P0469,32,Female,Gastroenteritis,Moderate,150,50.7,Dr. Johnson,Private,449049.37
+1470,P0470,84,Male,Stroke,Moderate,66,24.2,Dr. Brown,Public,77729.08
+1471,P0471,24,Female,Gastroenteritis,Severe,117,48.8,Dr. Brown,Public,909595.06
+1472,P0472,12,Male,Hypertension,Critical,132,28.8,Dr. Smith,Public,1146882.57
+1473,P0473,50,Male,Diabetes,Moderate,66,54.6,Dr. Adams,Self-Pay,299579.64
+1474,P0474,35,Female,Stroke,Severe,42,33.0,Dr. Smith,Private,398376.67
+1475,P0475,33,Male,Heart Failure,Severe,170,30.0,Dr. Taylor,Self-Pay,232818.27
+1476,P0476,33,Male,Diabetes,Moderate,65,67.3,Dr. Johnson,Public,698669.31
+1477,P0477,61,Female,Stroke,Critical,133,18.4,Dr. Brown,Self-Pay,198487.05
+1478,P0478,51,Male,Stroke,Mild,177,9.1,Dr. Smith,Public,437089.82
+1479,P0479,43,Male,Hypertension,Mild,160,42.3,Dr. Smith,Self-Pay,840960.42
+1480,P0480,12,Male,Fracture,Severe,153,69.8,Dr. Smith,Self-Pay,678737.44
+1481,P0481,67,Female,Hypertension,Moderate,126,27.5,Dr. Johnson,Public,472958.14
+1482,P0482,65,Male,Stroke,Severe,114,4.9,Dr. Adams,Self-Pay,512995.78
+1483,P0483,33,Female,Malaria,Severe,17,24.8,Dr. Smith,Private,681101.4
+1484,P0484,40,Female,Diabetes,Mild,159,36.7,Dr. Johnson,Self-Pay,21949.7
+1485,P0485,74,Male,Hypertension,Severe,104,12.1,Dr. Brown,Self-Pay,108034.19
+1486,P0486,43,Male,Fracture,Moderate,139,47.6,Dr. Taylor,Private,1059290.81
+1487,P0487,44,Male,Asthma,Moderate,26,71.8,Dr. Wilson,Public,107286.6
+1488,P0488,29,Female,Gastroenteritis,Moderate,78,32.8,Dr. Johnson,Private,852562.26
+1489,P0489,13,Male,Stroke,Critical,136,25.9,Dr. Wilson,Self-Pay,1105245.22
+1490,P0490,12,Male,Heart Failure,Mild,27,29.2,Dr. Smith,Public,335760.07
+1491,P0491,46,Male,Asthma,Moderate,123,8.7,Dr. Smith,Self-Pay,454032.35
+1492,P0492,2,Male,Pneumonia,Moderate,74,63.7,Dr. Johnson,Self-Pay,689171.87
+1493,P0493,35,Male,Appendicitis,Severe,88,30.2,Dr. Wilson,Private,1059825.13
+1494,P0494,87,Female,Fracture,Moderate,105,28.2,Dr. Smith,Private,1131158.12
+1495,P0495,81,Female,Heart Failure,Mild,88,47.7,Dr. Brown,Public,891382.45
+1496,P0496,8,Male,Appendicitis,Mild,165,32.1,Dr. Adams,Public,117644.42
+1497,P0497,26,Male,Fracture,Moderate,32,46.8,Dr. Adams,Public,807947.67
+1498,P0498,74,Male,Malaria,Severe,140,4.9,Dr. Smith,Self-Pay,501209.91
+1499,P0499,34,Male,Gastroenteritis,Mild,5,58.7,Dr. Wilson,Private,572780.68
+1500,P0500,7,Female,Asthma,Mild,169,67.7,Dr. Taylor,Private,73240.84
+1501,P0501,68,Male,Diabetes,Critical,67,46.9,Dr. Smith,Private,241408.64
+1502,P0502,58,Female,Fracture,Mild,26,68.8,Dr. Taylor,Public,951758.62
+1503,P0503,75,Female,Diabetes,Critical,74,11.3,Dr. Taylor,Private,552941.22
+1504,P0504,29,Male,Gastroenteritis,Moderate,129,34.6,Dr. Wilson,Private,372469.76
+1505,P0505,36,Female,Stroke,Severe,153,43.5,Dr. Taylor,Private,470062.6
+1506,P0506,89,Female,Pneumonia,Mild,100,42.1,Dr. Brown,Public,1027463.42
+1507,P0507,21,Female,Asthma,Mild,167,29.2,Dr. Wilson,Private,902563.84
+1508,P0508,36,Female,Gastroenteritis,Severe,83,24.7,Dr. Smith,Public,337693.75
+1509,P0509,10,Male,Gastroenteritis,Severe,9,9.6,Dr. Brown,Private,154239.68
+1510,P0510,73,Male,Malaria,Severe,64,28.5,Dr. Johnson,Private,313617.89
+1511,P0511,24,Female,Appendicitis,Mild,124,12.1,Dr. Adams,Private,1106096.39
+1512,P0512,64,Male,Pneumonia,Severe,50,53.0,Dr. Smith,Public,704182.77
+1513,P0513,49,Male,Asthma,Severe,180,15.4,Dr. Smith,Public,647174.05
+1514,P0514,36,Male,Stroke,Moderate,138,4.7,Dr. Smith,Private,721726.42
+1515,P0515,82,Male,Stroke,Severe,60,40.0,Dr. Brown,Self-Pay,448743.49
+1516,P0516,24,Male,Hypertension,Severe,114,43.1,Dr. Johnson,Public,971421.82
+1517,P0517,23,Female,Gastroenteritis,Moderate,161,62.8,Dr. Wilson,Public,635094.21
+1518,P0518,62,Male,Fracture,Mild,108,41.8,Dr. Johnson,Private,153346.26
+1519,P0519,37,Male,Malaria,Moderate,81,25.2,Dr. Brown,Self-Pay,167942.17
+1520,P0520,12,Male,Pneumonia,Mild,150,57.9,Dr. Smith,Private,651178.09
+1521,P0521,55,Male,Stroke,Moderate,6,39.1,Dr. Adams,Public,1124835.71
+1522,P0522,13,Female,Asthma,Moderate,12,6.2,Dr. Smith,Public,380397.26
+1523,P0523,23,Female,Hypertension,Mild,79,41.0,Dr. Wilson,Private,1045406.29
+1524,P0524,89,Female,Asthma,Mild,129,65.4,Dr. Taylor,Private,920453.27
+1525,P0525,30,Female,Malaria,Mild,42,28.8,Dr. Adams,Self-Pay,308657.74
+1526,P0526,17,Male,Fracture,Severe,180,21.7,Dr. Smith,Self-Pay,58063.79
+1527,P0527,62,Female,Hypertension,Critical,31,10.8,Dr. Adams,Public,135689.01
+1528,P0528,84,Male,Hypertension,Mild,24,11.3,Dr. Taylor,Self-Pay,878265.31
+1529,P0529,89,Male,Appendicitis,Critical,144,31.4,Dr. Johnson,Self-Pay,251608.64
+1530,P0530,86,Male,Pneumonia,Moderate,47,43.1,Dr. Brown,Public,454956.04
+1531,P0531,13,Male,Hypertension,Mild,35,6.3,Dr. Smith,Public,609513.51
+1532,P0532,59,Male,Appendicitis,Mild,95,67.7,Dr. Wilson,Public,874679.78
+1533,P0533,19,Female,Appendicitis,Moderate,65,54.5,Dr. Johnson,Public,149179.0
+1534,P0534,49,Female,Malaria,Severe,113,42.4,Dr. Smith,Private,496544.19
+1535,P0535,12,Female,Diabetes,Severe,95,59.7,Dr. Johnson,Public,589811.4
+1536,P0536,61,Female,Asthma,Mild,167,6.2,Dr. Wilson,Public,655880.07
+1537,P0537,19,Male,Fracture,Mild,99,34.6,Dr. Smith,Public,984757.36
+1538,P0538,76,Female,Heart Failure,Moderate,147,45.6,Dr. Taylor,Self-Pay,218438.66
+1539,P0539,9,Male,Asthma,Mild,148,59.7,Dr. Taylor,Public,972280.27
+1540,P0540,71,Female,Hypertension,Mild,17,56.5,Dr. Wilson,Private,836060.94
+1541,P0541,28,Male,Fracture,Mild,117,20.3,Dr. Adams,Private,673706.91
+1542,P0542,78,Male,Stroke,Severe,39,67.8,Dr. Wilson,Public,843940.53
+1543,P0543,52,Female,Diabetes,Critical,153,9.4,Dr. Adams,Private,503241.02
+1544,P0544,83,Male,Stroke,Moderate,162,63.1,Dr. Smith,Self-Pay,179001.14
+1545,P0545,16,Male,Stroke,Critical,52,69.9,Dr. Adams,Public,803931.81
+1546,P0546,69,Female,Pneumonia,Mild,39,13.2,Dr. Smith,Private,636736.68
+1547,P0547,12,Male,Asthma,Moderate,90,52.1,Dr. Smith,Private,772659.14
+1548,P0548,25,Female,Heart Failure,Mild,170,3.4,Dr. Brown,Public,415528.56
+1549,P0549,52,Female,Malaria,Moderate,163,29.5,Dr. Smith,Private,1089636.89
+1550,P0550,85,Female,Heart Failure,Critical,156,37.4,Dr. Adams,Public,711033.29
+1551,P0551,53,Male,Stroke,Moderate,118,42.0,Dr. Brown,Private,116201.94
+1552,P0552,23,Male,Hypertension,Moderate,104,67.4,Dr. Brown,Self-Pay,548017.73
+1553,P0553,16,Male,Diabetes,Moderate,164,48.6,Dr. Smith,Private,911281.92
+1554,P0554,57,Female,Gastroenteritis,Mild,103,34.9,Dr. Wilson,Private,956049.46
+1555,P0555,39,Male,Heart Failure,Severe,7,58.4,Dr. Wilson,Public,601097.51
+1556,P0556,53,Female,Stroke,Moderate,89,68.5,Dr. Taylor,Private,1075275.87
+1557,P0557,42,Female,Diabetes,Moderate,129,2.1,Dr. Brown,Public,332187.1
+1558,P0558,58,Male,Fracture,Moderate,142,70.8,Dr. Smith,Self-Pay,501559.46
+1559,P0559,39,Female,Asthma,Moderate,87,6.7,Dr. Wilson,Public,1079837.34
+1560,P0560,14,Male,Appendicitis,Mild,29,58.7,Dr. Smith,Public,1077064.21
+1561,P0561,5,Male,Pneumonia,Moderate,72,20.5,Dr. Smith,Private,827569.63
+1562,P0562,35,Male,Diabetes,Mild,65,10.0,Dr. Brown,Self-Pay,1032891.95
+1563,P0563,87,Male,Hypertension,Severe,33,31.9,Dr. Taylor,Public,120196.32
+1564,P0564,75,Male,Hypertension,Severe,131,46.5,Dr. Brown,Private,1040019.05
+1565,P0565,18,Female,Diabetes,Severe,23,27.7,Dr. Johnson,Private,394934.59
+1566,P0566,76,Female,Hypertension,Moderate,175,4.4,Dr. Wilson,Public,226322.84
+1567,P0567,9,Female,Asthma,Moderate,78,43.4,Dr. Wilson,Private,298653.26
+1568,P0568,74,Male,Hypertension,Mild,65,65.0,Dr. Wilson,Public,510292.68
+1569,P0569,58,Male,Heart Failure,Severe,175,27.9,Dr. Adams,Public,312662.53
+1570,P0570,17,Male,Appendicitis,Mild,157,16.0,Dr. Smith,Public,394872.59
+1571,P0571,7,Female,Hypertension,Moderate,24,32.1,Dr. Brown,Self-Pay,174949.51
+1572,P0572,46,Male,Appendicitis,Mild,52,4.0,Dr. Wilson,Public,365969.47
+1573,P0573,13,Female,Stroke,Mild,91,59.2,Dr. Johnson,Private,693156.32
+1574,P0574,40,Female,Malaria,Moderate,156,59.6,Dr. Wilson,Self-Pay,538596.64
+1575,P0575,42,Male,Asthma,Mild,143,42.5,Dr. Taylor,Private,425861.73
+1576,P0576,9,Male,Malaria,Severe,114,25.7,Dr. Smith,Self-Pay,899545.77
+1577,P0577,50,Female,Stroke,Mild,32,57.7,Dr. Smith,Self-Pay,1073809.32
+1578,P0578,27,Male,Asthma,Mild,63,40.2,Dr. Brown,Self-Pay,911795.23
+1579,P0579,66,Female,Diabetes,Moderate,137,59.6,Dr. Adams,Self-Pay,408420.83
+1580,P0580,5,Male,Diabetes,Mild,55,45.6,Dr. Brown,Private,897163.97
+1581,P0581,29,Male,Appendicitis,Mild,153,56.6,Dr. Wilson,Public,195096.52
+1582,P0582,37,Female,Stroke,Severe,16,43.3,Dr. Taylor,Private,169426.82
+1583,P0583,38,Male,Appendicitis,Mild,54,30.1,Dr. Johnson,Public,424568.04
+1584,P0584,83,Female,Pneumonia,Severe,136,69.0,Dr. Brown,Private,972127.31
+1585,P0585,8,Male,Hypertension,Mild,117,39.2,Dr. Adams,Self-Pay,306922.67
+1586,P0586,65,Female,Gastroenteritis,Mild,174,43.8,Dr. Brown,Self-Pay,89955.29
+1587,P0587,86,Female,Pneumonia,Severe,170,16.3,Dr. Smith,Public,171075.8
+1588,P0588,17,Male,Hypertension,Mild,157,45.2,Dr. Wilson,Public,1032612.79
+1589,P0589,71,Female,Asthma,Mild,18,41.4,Dr. Wilson,Private,766033.19
+1590,P0590,89,Male,Appendicitis,Moderate,36,13.7,Dr. Wilson,Public,315043.38
+1591,P0591,45,Male,Asthma,Mild,143,4.8,Dr. Wilson,Private,673025.55
+1592,P0592,4,Male,Asthma,Severe,150,43.7,Dr. Wilson,Public,640181.85
+1593,P0593,36,Female,Hypertension,Mild,159,55.1,Dr. Wilson,Public,791691.63
+1594,P0594,70,Female,Stroke,Severe,59,37.9,Dr. Johnson,Public,291327.25
+1595,P0595,31,Male,Hypertension,Severe,124,16.7,Dr. Adams,Self-Pay,1039317.54
+1596,P0596,19,Male,Fracture,Moderate,79,48.2,Dr. Wilson,Self-Pay,381601.75
+1597,P0597,61,Female,Diabetes,Critical,25,6.2,Dr. Adams,Private,837546.01
+1598,P0598,54,Male,Diabetes,Moderate,176,32.1,Dr. Taylor,Public,34107.71
+1599,P0599,39,Male,Pneumonia,Critical,137,12.2,Dr. Wilson,Private,456598.7
+1600,P0600,74,Female,Diabetes,Mild,91,13.7,Dr. Brown,Public,431776.13
+1601,P0601,19,Male,Hypertension,Moderate,173,15.0,Dr. Wilson,Self-Pay,659029.05
+1602,P0602,39,Female,Heart Failure,Moderate,63,28.1,Dr. Smith,Self-Pay,101192.47
+1603,P0603,67,Male,Appendicitis,Moderate,93,4.2,Dr. Johnson,Public,951305.68
+1604,P0604,45,Female,Hypertension,Moderate,154,28.9,Dr. Brown,Public,273070.25
+1605,P0605,13,Male,Hypertension,Severe,87,37.1,Dr. Brown,Self-Pay,817289.81
+1606,P0606,58,Male,Gastroenteritis,Mild,69,35.1,Dr. Smith,Self-Pay,966806.37
+1607,P0607,20,Female,Appendicitis,Mild,68,27.9,Dr. Wilson,Private,680824.19
+1608,P0608,72,Male,Fracture,Severe,75,60.5,Dr. Johnson,Self-Pay,892946.6
+1609,P0609,61,Female,Diabetes,Moderate,8,10.9,Dr. Brown,Public,799304.47
+1610,P0610,39,Male,Appendicitis,Critical,147,36.7,Dr. Johnson,Private,436302.81
+1611,P0611,1,Female,Diabetes,Severe,108,4.9,Dr. Brown,Public,973497.37
+1612,P0612,3,Female,Pneumonia,Critical,154,5.6,Dr. Wilson,Private,364221.12
+1613,P0613,77,Female,Appendicitis,Severe,179,41.5,Dr. Taylor,Public,691887.31
+1614,P0614,62,Female,Diabetes,Mild,97,41.0,Dr. Brown,Self-Pay,898296.32
+1615,P0615,63,Male,Fracture,Mild,178,63.3,Dr. Taylor,Public,464062.75
+1616,P0616,25,Male,Malaria,Severe,146,40.4,Dr. Brown,Private,373779.62
+1617,P0617,56,Female,Asthma,Moderate,152,69.1,Dr. Adams,Public,559325.02
+1618,P0618,33,Female,Asthma,Mild,116,4.0,Dr. Wilson,Private,984286.74
+1619,P0619,38,Female,Fracture,Moderate,165,7.5,Dr. Smith,Public,1116957.29
+1620,P0620,6,Male,Gastroenteritis,Critical,123,3.7,Dr. Taylor,Self-Pay,660923.84
+1621,P0621,58,Male,Malaria,Moderate,63,13.7,Dr. Smith,Self-Pay,798837.45
+1622,P0622,44,Male,Pneumonia,Moderate,47,39.2,Dr. Wilson,Public,1085379.24
+1623,P0623,45,Male,Fracture,Moderate,16,46.7,Dr. Smith,Public,131778.02
+1624,P0624,32,Female,Asthma,Mild,44,3.8,Dr. Wilson,Public,290013.11
+1625,P0625,45,Female,Asthma,Moderate,122,68.1,Dr. Smith,Private,855046.51
+1626,P0626,61,Female,Asthma,Moderate,24,60.7,Dr. Taylor,Public,991137.19
+1627,P0627,47,Male,Stroke,Mild,170,21.7,Dr. Adams,Public,1030579.4
+1628,P0628,21,Male,Fracture,Severe,135,6.0,Dr. Smith,Private,506902.0
+1629,P0629,80,Male,Hypertension,Moderate,160,12.6,Dr. Taylor,Self-Pay,120867.78
+1630,P0630,85,Female,Pneumonia,Severe,94,9.6,Dr. Brown,Public,533771.05
+1631,P0631,75,Female,Asthma,Severe,98,9.3,Dr. Wilson,Public,288420.49
+1632,P0632,36,Male,Diabetes,Mild,17,37.6,Dr. Johnson,Self-Pay,360067.8
+1633,P0633,19,Female,Fracture,Moderate,70,18.1,Dr. Johnson,Self-Pay,930137.05
+1634,P0634,20,Male,Stroke,Moderate,41,26.1,Dr. Wilson,Private,104499.6
+1635,P0635,57,Male,Fracture,Severe,70,71.2,Dr. Adams,Public,995683.74
+1636,P0636,18,Female,Pneumonia,Mild,40,49.4,Dr. Smith,Public,521787.87
+1637,P0637,47,Male,Stroke,Moderate,30,68.4,Dr. Adams,Private,721335.76
+1638,P0638,49,Female,Pneumonia,Moderate,79,10.7,Dr. Johnson,Self-Pay,121237.89
+1639,P0639,14,Male,Fracture,Mild,112,27.8,Dr. Taylor,Private,414770.51
+1640,P0640,15,Female,Hypertension,Mild,172,40.2,Dr. Wilson,Self-Pay,121295.59
+1641,P0641,31,Female,Pneumonia,Moderate,47,6.0,Dr. Wilson,Private,1154429.31
+1642,P0642,1,Female,Stroke,Severe,154,0.8,Dr. Adams,Self-Pay,971605.05
+1643,P0643,54,Male,Stroke,Mild,152,48.4,Dr. Taylor,Private,559664.81
+1644,P0644,3,Male,Pneumonia,Moderate,12,46.4,Dr. Adams,Self-Pay,279969.02
+1645,P0645,16,Female,Heart Failure,Moderate,33,29.9,Dr. Smith,Self-Pay,1121144.3
+1646,P0646,87,Female,Fracture,Severe,44,35.5,Dr. Brown,Self-Pay,423346.97
+1647,P0647,57,Male,Heart Failure,Mild,162,30.2,Dr. Taylor,Self-Pay,205766.55
+1648,P0648,75,Male,Gastroenteritis,Severe,132,2.2,Dr. Brown,Self-Pay,682349.8
+1649,P0649,12,Male,Fracture,Mild,88,24.5,Dr. Smith,Public,1133372.33
+1650,P0650,74,Female,Pneumonia,Moderate,120,13.2,Dr. Brown,Self-Pay,19538.89
+1651,P0651,16,Male,Malaria,Mild,148,7.5,Dr. Johnson,Public,297177.94
+1652,P0652,72,Male,Pneumonia,Mild,178,68.9,Dr. Brown,Self-Pay,1127060.45
+1653,P0653,76,Female,Heart Failure,Moderate,66,43.4,Dr. Smith,Public,217736.87
+1654,P0654,24,Male,Hypertension,Mild,11,52.6,Dr. Brown,Public,149193.49
+1655,P0655,28,Male,Pneumonia,Severe,49,23.0,Dr. Wilson,Private,690671.85
+1656,P0656,8,Male,Pneumonia,Mild,180,28.6,Dr. Adams,Self-Pay,1036284.93
+1657,P0657,36,Female,Hypertension,Moderate,159,17.4,Dr. Johnson,Private,580375.13
+1658,P0658,8,Female,Pneumonia,Mild,92,7.4,Dr. Wilson,Private,1193558.64
+1659,P0659,58,Female,Asthma,Mild,77,13.3,Dr. Wilson,Self-Pay,819818.46
+1660,P0660,60,Female,Malaria,Mild,167,57.5,Dr. Smith,Private,102778.77
+1661,P0661,50,Female,Diabetes,Moderate,41,48.9,Dr. Adams,Self-Pay,1191506.08
+1662,P0662,28,Female,Malaria,Moderate,123,39.6,Dr. Adams,Private,498354.67
+1663,P0663,41,Female,Pneumonia,Moderate,61,34.5,Dr. Taylor,Self-Pay,355572.0
+1664,P0664,64,Male,Asthma,Moderate,12,66.5,Dr. Johnson,Self-Pay,676086.83
+1665,P0665,27,Male,Fracture,Moderate,99,5.7,Dr. Smith,Self-Pay,375604.5
+1666,P0666,63,Female,Pneumonia,Mild,121,20.6,Dr. Johnson,Public,117452.15
+1667,P0667,17,Male,Heart Failure,Moderate,114,25.5,Dr. Taylor,Private,16692.59
+1668,P0668,73,Male,Asthma,Critical,24,56.4,Dr. Brown,Public,547756.27
+1669,P0669,33,Female,Hypertension,Moderate,128,71.5,Dr. Wilson,Private,1006683.16
+1670,P0670,84,Male,Asthma,Moderate,57,17.7,Dr. Johnson,Private,693193.49
+1671,P0671,77,Male,Hypertension,Mild,123,63.0,Dr. Wilson,Private,1199060.65
+1672,P0672,29,Male,Gastroenteritis,Severe,16,59.9,Dr. Smith,Public,354913.28
+1673,P0673,13,Male,Diabetes,Severe,21,16.6,Dr. Brown,Private,347339.25
+1674,P0674,46,Male,Appendicitis,Moderate,68,29.1,Dr. Smith,Public,204303.11
+1675,P0675,35,Female,Asthma,Critical,46,29.8,Dr. Brown,Self-Pay,209415.35
+1676,P0676,6,Female,Stroke,Mild,98,70.4,Dr. Brown,Private,352946.12
+1677,P0677,82,Female,Heart Failure,Mild,161,13.4,Dr. Wilson,Private,954515.45
+1678,P0678,69,Male,Pneumonia,Severe,151,57.6,Dr. Smith,Self-Pay,1088321.8
+1679,P0679,47,Female,Heart Failure,Severe,15,24.4,Dr. Smith,Self-Pay,1170478.3
+1680,P0680,25,Male,Malaria,Mild,102,52.8,Dr. Johnson,Private,290263.24
+1681,P0681,66,Male,Appendicitis,Mild,75,30.5,Dr. Smith,Self-Pay,1059337.59
+1682,P0682,10,Male,Malaria,Mild,112,41.9,Dr. Johnson,Public,403982.28
+1683,P0683,56,Male,Gastroenteritis,Mild,62,60.0,Dr. Adams,Public,148716.05
+1684,P0684,30,Female,Appendicitis,Severe,38,58.0,Dr. Adams,Private,1045979.54
+1685,P0685,5,Female,Appendicitis,Moderate,24,62.4,Dr. Adams,Public,768785.18
+1686,P0686,33,Male,Malaria,Mild,54,4.8,Dr. Taylor,Public,210206.11
+1687,P0687,65,Female,Hypertension,Moderate,106,50.0,Dr. Smith,Private,524350.04
+1688,P0688,18,Male,Malaria,Mild,142,10.5,Dr. Taylor,Self-Pay,355400.37
+1689,P0689,49,Female,Heart Failure,Mild,164,30.2,Dr. Smith,Private,888101.56
+1690,P0690,11,Female,Hypertension,Moderate,56,39.7,Dr. Johnson,Public,552298.23
+1691,P0691,85,Male,Heart Failure,Critical,19,29.3,Dr. Taylor,Private,1187296.73
+1692,P0692,26,Female,Gastroenteritis,Severe,88,37.7,Dr. Taylor,Private,79872.8
+1693,P0693,63,Male,Pneumonia,Mild,135,71.8,Dr. Taylor,Public,435693.09
+1694,P0694,89,Female,Fracture,Severe,41,10.2,Dr. Brown,Public,586051.7
+1695,P0695,86,Male,Hypertension,Severe,130,48.8,Dr. Johnson,Private,611213.26
+1696,P0696,59,Male,Gastroenteritis,Severe,44,28.8,Dr. Adams,Public,389383.95
+1697,P0697,27,Female,Stroke,Moderate,76,10.0,Dr. Johnson,Public,879149.7
+1698,P0698,49,Female,Gastroenteritis,Moderate,44,11.8,Dr. Brown,Public,1051575.28
+1699,P0699,77,Male,Malaria,Mild,60,68.4,Dr. Smith,Public,1127382.37
+1700,P0700,33,Female,Malaria,Mild,155,63.4,Dr. Johnson,Public,969035.65
+1701,P0701,1,Female,Fracture,Mild,108,65.4,Dr. Taylor,Public,1022937.53
+1702,P0702,21,Male,Gastroenteritis,Mild,143,71.4,Dr. Adams,Self-Pay,667396.18
+1703,P0703,55,Male,Diabetes,Moderate,114,15.4,Dr. Adams,Private,993677.55
+1704,P0704,6,Female,Pneumonia,Severe,140,25.9,Dr. Smith,Public,374652.13
+1705,P0705,81,Male,Malaria,Moderate,97,48.3,Dr. Johnson,Private,487197.33
+1706,P0706,69,Male,Fracture,Mild,98,35.1,Dr. Brown,Self-Pay,390541.92
+1707,P0707,5,Male,Pneumonia,Critical,60,30.4,Dr. Smith,Public,568853.99
+1708,P0708,3,Female,Gastroenteritis,Critical,64,26.1,Dr. Johnson,Private,353411.85
+1709,P0709,53,Female,Gastroenteritis,Severe,142,43.0,Dr. Wilson,Public,1154509.56
+1710,P0710,23,Male,Appendicitis,Critical,43,41.7,Dr. Adams,Public,385720.88
+1711,P0711,53,Female,Fracture,Moderate,32,12.0,Dr. Brown,Public,131182.78
+1712,P0712,37,Male,Malaria,Critical,53,34.2,Dr. Taylor,Public,639278.34
+1713,P0713,74,Female,Diabetes,Mild,168,40.1,Dr. Brown,Public,82662.41
+1714,P0714,74,Male,Gastroenteritis,Moderate,129,41.3,Dr. Taylor,Public,145993.65
+1715,P0715,83,Male,Diabetes,Mild,17,15.5,Dr. Brown,Public,274976.43
+1716,P0716,17,Female,Gastroenteritis,Mild,40,53.6,Dr. Adams,Self-Pay,565255.05
+1717,P0717,85,Male,Malaria,Mild,105,2.3,Dr. Taylor,Self-Pay,528402.35
+1718,P0718,78,Female,Pneumonia,Moderate,30,25.9,Dr. Johnson,Public,962634.86
+1719,P0719,73,Female,Asthma,Severe,90,56.3,Dr. Taylor,Public,891277.46
+1720,P0720,1,Male,Pneumonia,Moderate,8,40.8,Dr. Smith,Self-Pay,520187.18
+1721,P0721,51,Male,Gastroenteritis,Mild,86,19.2,Dr. Johnson,Self-Pay,410439.49
+1722,P0722,45,Female,Heart Failure,Severe,170,50.2,Dr. Smith,Self-Pay,390015.51
+1723,P0723,77,Male,Asthma,Moderate,131,41.1,Dr. Brown,Public,932184.18
+1724,P0724,4,Male,Asthma,Moderate,92,57.4,Dr. Johnson,Private,76705.8
+1725,P0725,62,Male,Diabetes,Moderate,131,53.1,Dr. Brown,Private,30193.65
+1726,P0726,65,Male,Fracture,Mild,124,44.1,Dr. Wilson,Private,957720.1
+1727,P0727,32,Male,Diabetes,Mild,26,35.4,Dr. Brown,Private,580418.46
+1728,P0728,34,Female,Diabetes,Critical,134,10.0,Dr. Brown,Public,170094.15
+1729,P0729,72,Female,Heart Failure,Mild,35,19.2,Dr. Smith,Private,294145.63
+1730,P0730,39,Male,Pneumonia,Moderate,123,30.5,Dr. Taylor,Self-Pay,1120017.18
+1731,P0731,26,Male,Pneumonia,Severe,15,43.3,Dr. Wilson,Self-Pay,1033511.03
+1732,P0732,34,Male,Stroke,Severe,50,37.2,Dr. Brown,Private,856095.28
+1733,P0733,54,Female,Gastroenteritis,Mild,100,21.1,Dr. Brown,Self-Pay,586436.9
+1734,P0734,3,Male,Heart Failure,Mild,14,1.0,Dr. Wilson,Public,631583.5
+1735,P0735,50,Female,Stroke,Mild,172,36.0,Dr. Wilson,Private,1170664.77
+1736,P0736,12,Female,Malaria,Moderate,132,20.9,Dr. Johnson,Private,1159437.98
+1737,P0737,65,Female,Gastroenteritis,Moderate,156,53.0,Dr. Smith,Public,270093.82
+1738,P0738,54,Male,Gastroenteritis,Mild,103,2.2,Dr. Wilson,Self-Pay,976158.91
+1739,P0739,5,Female,Appendicitis,Critical,176,42.3,Dr. Wilson,Public,248732.56
+1740,P0740,57,Male,Appendicitis,Moderate,116,67.8,Dr. Adams,Public,268041.91
+1741,P0741,17,Female,Hypertension,Mild,64,13.0,Dr. Taylor,Self-Pay,816170.25
+1742,P0742,47,Male,Hypertension,Moderate,91,34.2,Dr. Wilson,Public,494926.3
+1743,P0743,23,Female,Diabetes,Moderate,149,7.0,Dr. Smith,Self-Pay,1118880.12
+1744,P0744,79,Male,Malaria,Mild,69,45.2,Dr. Taylor,Self-Pay,120476.54
+1745,P0745,85,Female,Asthma,Mild,61,39.9,Dr. Taylor,Public,621157.88
+1746,P0746,14,Male,Asthma,Severe,110,29.6,Dr. Brown,Self-Pay,1103448.01
+1747,P0747,66,Male,Appendicitis,Moderate,13,37.8,Dr. Brown,Public,1086374.69
+1748,P0748,75,Male,Appendicitis,Moderate,26,64.6,Dr. Brown,Self-Pay,200487.12
+1749,P0749,51,Male,Appendicitis,Moderate,145,14.5,Dr. Brown,Private,449465.67
+1750,P0750,38,Female,Heart Failure,Mild,93,2.1,Dr. Adams,Self-Pay,748658.86
+1751,P0751,64,Female,Fracture,Mild,180,62.1,Dr. Wilson,Self-Pay,203882.94
+1752,P0752,38,Male,Hypertension,Moderate,22,41.8,Dr. Brown,Public,1162106.27
+1753,P0753,50,Female,Heart Failure,Mild,119,64.2,Dr. Johnson,Self-Pay,1098977.95
+1754,P0754,82,Male,Pneumonia,Mild,172,43.2,Dr. Brown,Private,212835.96
+1755,P0755,30,Male,Asthma,Severe,149,58.4,Dr. Wilson,Private,158569.22
+1756,P0756,79,Female,Gastroenteritis,Critical,147,31.2,Dr. Brown,Self-Pay,116209.05
+1757,P0757,51,Male,Hypertension,Severe,110,54.1,Dr. Adams,Self-Pay,1092690.74
+1758,P0758,63,Male,Stroke,Severe,19,65.8,Dr. Smith,Private,244444.21
+1759,P0759,52,Female,Pneumonia,Mild,67,41.4,Dr. Smith,Public,508297.64
+1760,P0760,38,Male,Hypertension,Critical,171,13.4,Dr. Wilson,Private,546888.87
+1761,P0761,88,Male,Heart Failure,Mild,17,19.7,Dr. Smith,Private,724828.09
+1762,P0762,79,Male,Malaria,Critical,85,14.7,Dr. Smith,Self-Pay,100006.38
+1763,P0763,30,Male,Gastroenteritis,Critical,36,18.2,Dr. Johnson,Self-Pay,283708.96
+1764,P0764,51,Female,Hypertension,Severe,141,22.4,Dr. Wilson,Private,1118816.11
+1765,P0765,81,Female,Fracture,Critical,44,40.2,Dr. Wilson,Public,1091465.98
+1766,P0766,5,Female,Appendicitis,Moderate,152,42.5,Dr. Smith,Private,940829.42
+1767,P0767,29,Male,Appendicitis,Mild,86,31.0,Dr. Smith,Private,37990.48
+1768,P0768,4,Male,Gastroenteritis,Moderate,81,44.5,Dr. Smith,Public,402503.02
+1769,P0769,10,Female,Heart Failure,Moderate,80,6.3,Dr. Taylor,Private,759131.1
+1770,P0770,56,Male,Appendicitis,Mild,176,6.8,Dr. Adams,Private,341100.4
+1771,P0771,17,Male,Hypertension,Moderate,42,12.8,Dr. Brown,Self-Pay,1092860.23
+1772,P0772,74,Male,Stroke,Critical,75,37.5,Dr. Adams,Public,766159.01
+1773,P0773,17,Male,Asthma,Mild,52,15.8,Dr. Wilson,Self-Pay,100209.46
+1774,P0774,84,Female,Asthma,Severe,22,20.8,Dr. Johnson,Self-Pay,1092171.62
+1775,P0775,88,Female,Pneumonia,Critical,148,29.1,Dr. Brown,Public,1149953.49
+1776,P0776,69,Female,Diabetes,Critical,43,58.5,Dr. Johnson,Public,107089.22
+1777,P0777,34,Male,Malaria,Critical,93,1.5,Dr. Taylor,Private,645846.88
+1778,P0778,6,Female,Gastroenteritis,Moderate,66,46.9,Dr. Wilson,Self-Pay,374486.67
+1779,P0779,53,Female,Pneumonia,Critical,145,48.3,Dr. Taylor,Public,480514.31
+1780,P0780,66,Male,Diabetes,Severe,113,57.6,Dr. Wilson,Self-Pay,227886.69
+1781,P0781,77,Male,Heart Failure,Mild,85,67.2,Dr. Johnson,Self-Pay,700015.44
+1782,P0782,43,Female,Fracture,Moderate,138,1.9,Dr. Johnson,Public,1150205.53
+1783,P0783,75,Female,Fracture,Severe,81,11.5,Dr. Johnson,Private,611141.03
+1784,P0784,23,Female,Malaria,Mild,94,63.9,Dr. Wilson,Self-Pay,113253.78
+1785,P0785,55,Female,Appendicitis,Moderate,18,33.3,Dr. Smith,Public,749701.58
+1786,P0786,80,Male,Hypertension,Moderate,99,40.9,Dr. Johnson,Private,418164.25
+1787,P0787,75,Female,Pneumonia,Mild,58,47.9,Dr. Taylor,Self-Pay,1029271.35
+1788,P0788,16,Female,Pneumonia,Moderate,136,49.1,Dr. Brown,Public,530093.61
+1789,P0789,8,Male,Gastroenteritis,Severe,43,67.1,Dr. Wilson,Self-Pay,243514.94
+1790,P0790,4,Female,Gastroenteritis,Moderate,76,71.8,Dr. Taylor,Public,241460.16
+1791,P0791,4,Male,Fracture,Mild,29,52.0,Dr. Adams,Public,925985.55
+1792,P0792,56,Male,Fracture,Mild,81,21.0,Dr. Adams,Self-Pay,329721.3
+1793,P0793,25,Male,Stroke,Moderate,164,63.4,Dr. Brown,Self-Pay,924171.57
+1794,P0794,67,Female,Stroke,Critical,170,4.0,Dr. Smith,Public,258976.46
+1795,P0795,67,Female,Appendicitis,Mild,124,17.0,Dr. Johnson,Private,396198.35
+1796,P0796,27,Male,Stroke,Moderate,57,64.7,Dr. Wilson,Self-Pay,566602.06
+1797,P0797,32,Female,Hypertension,Mild,160,18.8,Dr. Taylor,Public,1132687.08
+1798,P0798,50,Female,Hypertension,Mild,135,16.3,Dr. Johnson,Public,1119101.74
+1799,P0799,61,Male,Pneumonia,Severe,154,10.4,Dr. Taylor,Private,260143.17
+1800,P0800,51,Male,Asthma,Severe,100,61.9,Dr. Wilson,Private,439489.56
+1801,P0801,19,Female,Hypertension,Mild,170,36.3,Dr. Adams,Private,192038.28
+1802,P0802,21,Male,Diabetes,Moderate,76,48.8,Dr. Johnson,Self-Pay,619332.32
+1803,P0803,5,Female,Fracture,Mild,66,17.6,Dr. Brown,Public,560790.32
+1804,P0804,82,Female,Gastroenteritis,Moderate,10,54.7,Dr. Smith,Public,1082400.79
+1805,P0805,42,Female,Stroke,Moderate,36,54.8,Dr. Brown,Public,1117056.37
+1806,P0806,61,Female,Pneumonia,Mild,103,22.9,Dr. Smith,Private,469527.36
+1807,P0807,22,Male,Malaria,Mild,142,29.9,Dr. Taylor,Public,597709.46
+1808,P0808,21,Male,Gastroenteritis,Moderate,135,15.5,Dr. Johnson,Self-Pay,1077039.96
+1809,P0809,70,Male,Diabetes,Critical,80,70.3,Dr. Johnson,Private,970948.75
+1810,P0810,1,Male,Stroke,Critical,63,46.7,Dr. Smith,Private,19332.73
+1811,P0811,5,Female,Diabetes,Mild,35,67.3,Dr. Adams,Private,394270.58
+1812,P0812,12,Female,Fracture,Severe,97,22.2,Dr. Wilson,Private,514802.48
+1813,P0813,46,Male,Fracture,Moderate,73,56.4,Dr. Brown,Self-Pay,287213.8
+1814,P0814,34,Female,Appendicitis,Moderate,56,55.3,Dr. Taylor,Public,251492.36
+1815,P0815,49,Female,Pneumonia,Severe,93,50.0,Dr. Brown,Self-Pay,59774.64
+1816,P0816,78,Female,Gastroenteritis,Critical,131,69.5,Dr. Brown,Public,777393.12
+1817,P0817,45,Male,Heart Failure,Critical,173,28.6,Dr. Taylor,Self-Pay,326074.69
+1818,P0818,27,Male,Heart Failure,Moderate,35,9.8,Dr. Taylor,Private,77031.41
+1819,P0819,73,Male,Gastroenteritis,Moderate,88,48.5,Dr. Johnson,Private,288710.48
+1820,P0820,26,Female,Malaria,Severe,131,52.6,Dr. Brown,Self-Pay,965268.03
+1821,P0821,47,Male,Pneumonia,Mild,154,41.6,Dr. Wilson,Self-Pay,1024014.68
+1822,P0822,86,Male,Diabetes,Moderate,136,15.3,Dr. Wilson,Public,587433.5
+1823,P0823,56,Male,Malaria,Moderate,17,36.6,Dr. Smith,Self-Pay,508043.74
+1824,P0824,63,Male,Asthma,Moderate,49,22.8,Dr. Taylor,Self-Pay,1173756.63
+1825,P0825,48,Male,Gastroenteritis,Mild,131,31.1,Dr. Johnson,Public,252669.12
+1826,P0826,61,Male,Diabetes,Mild,174,46.6,Dr. Wilson,Public,270200.75
+1827,P0827,81,Female,Heart Failure,Critical,118,53.8,Dr. Adams,Public,360862.6
+1828,P0828,26,Female,Hypertension,Mild,24,17.1,Dr. Johnson,Self-Pay,219717.42
+1829,P0829,36,Male,Appendicitis,Moderate,85,29.5,Dr. Johnson,Public,464548.23
+1830,P0830,1,Male,Heart Failure,Mild,168,19.7,Dr. Wilson,Private,1094338.56
+1831,P0831,8,Female,Pneumonia,Mild,133,14.7,Dr. Adams,Private,744187.19
+1832,P0832,52,Female,Fracture,Mild,147,56.5,Dr. Smith,Private,503156.66
+1833,P0833,79,Male,Hypertension,Mild,21,65.5,Dr. Wilson,Self-Pay,1122276.79
+1834,P0834,47,Male,Appendicitis,Severe,156,27.0,Dr. Adams,Private,72430.12
+1835,P0835,56,Male,Appendicitis,Mild,62,54.2,Dr. Johnson,Self-Pay,264177.27
+1836,P0836,86,Male,Asthma,Critical,76,64.6,Dr. Adams,Self-Pay,685578.0
+1837,P0837,14,Female,Asthma,Moderate,113,61.0,Dr. Johnson,Private,744429.86
+1838,P0838,28,Male,Stroke,Moderate,27,13.6,Dr. Wilson,Public,61875.65
+1839,P0839,87,Male,Heart Failure,Moderate,178,68.9,Dr. Taylor,Self-Pay,492600.93
+1840,P0840,78,Male,Heart Failure,Moderate,76,27.4,Dr. Wilson,Private,784247.45
+1841,P0841,88,Male,Heart Failure,Severe,12,24.8,Dr. Brown,Self-Pay,842213.6
+1842,P0842,2,Female,Stroke,Mild,63,5.0,Dr. Brown,Public,771195.78
+1843,P0843,26,Female,Malaria,Moderate,115,35.3,Dr. Brown,Public,394867.42
+1844,P0844,14,Female,Appendicitis,Severe,17,8.3,Dr. Wilson,Private,125821.35
+1845,P0845,59,Male,Hypertension,Critical,171,18.3,Dr. Smith,Self-Pay,521128.25
+1846,P0846,56,Male,Pneumonia,Severe,160,23.2,Dr. Wilson,Self-Pay,167574.01
+1847,P0847,7,Female,Appendicitis,Moderate,20,58.3,Dr. Taylor,Self-Pay,1137934.04
+1848,P0848,3,Male,Asthma,Severe,123,63.1,Dr. Adams,Self-Pay,578077.48
+1849,P0849,23,Male,Diabetes,Moderate,6,22.1,Dr. Wilson,Private,390952.12
+1850,P0850,18,Female,Fracture,Moderate,149,61.9,Dr. Wilson,Public,923070.32
+1851,P0851,38,Female,Stroke,Mild,34,61.8,Dr. Johnson,Private,605069.08
+1852,P0852,15,Female,Gastroenteritis,Moderate,107,55.2,Dr. Johnson,Self-Pay,382390.32
+1853,P0853,64,Female,Diabetes,Mild,17,11.0,Dr. Johnson,Self-Pay,977181.77
+1854,P0854,89,Male,Pneumonia,Mild,100,49.9,Dr. Wilson,Public,1042575.3
+1855,P0855,28,Male,Heart Failure,Severe,98,68.1,Dr. Smith,Self-Pay,812514.68
+1856,P0856,74,Female,Asthma,Mild,86,49.3,Dr. Adams,Private,70652.84
+1857,P0857,39,Male,Asthma,Mild,17,24.2,Dr. Adams,Private,686092.61
+1858,P0858,57,Female,Asthma,Mild,175,36.3,Dr. Taylor,Public,919504.47
+1859,P0859,17,Female,Heart Failure,Critical,98,46.7,Dr. Smith,Private,176756.07
+1860,P0860,86,Male,Gastroenteritis,Moderate,153,37.0,Dr. Smith,Private,285974.84
+1861,P0861,44,Female,Stroke,Moderate,116,9.1,Dr. Adams,Private,1060756.7
+1862,P0862,25,Male,Diabetes,Severe,59,22.8,Dr. Brown,Private,38844.24
+1863,P0863,17,Male,Heart Failure,Severe,85,57.9,Dr. Johnson,Self-Pay,906981.66
+1864,P0864,13,Male,Pneumonia,Mild,172,62.1,Dr. Johnson,Private,576421.35
+1865,P0865,84,Male,Stroke,Moderate,120,10.3,Dr. Adams,Public,544425.01
+1866,P0866,25,Female,Pneumonia,Severe,147,68.6,Dr. Smith,Public,23409.39
+1867,P0867,68,Male,Stroke,Moderate,112,24.0,Dr. Taylor,Private,985986.9
+1868,P0868,10,Female,Gastroenteritis,Mild,57,47.9,Dr. Brown,Public,441392.51
+1869,P0869,67,Female,Fracture,Severe,132,54.3,Dr. Adams,Private,655807.27
+1870,P0870,18,Female,Pneumonia,Moderate,162,58.6,Dr. Johnson,Public,817601.31
+1871,P0871,86,Female,Heart Failure,Mild,165,68.1,Dr. Wilson,Public,847616.05
+1872,P0872,34,Male,Stroke,Moderate,61,22.9,Dr. Smith,Private,1147836.37
+1873,P0873,8,Male,Asthma,Mild,56,61.9,Dr. Wilson,Private,644637.84
+1874,P0874,40,Female,Appendicitis,Mild,141,9.9,Dr. Taylor,Self-Pay,488667.67
+1875,P0875,83,Female,Asthma,Severe,115,50.9,Dr. Adams,Private,1145138.8
+1876,P0876,42,Male,Malaria,Mild,5,53.6,Dr. Johnson,Private,775900.63
+1877,P0877,41,Female,Fracture,Moderate,48,49.0,Dr. Brown,Self-Pay,368308.17
+1878,P0878,6,Male,Fracture,Moderate,79,18.5,Dr. Wilson,Private,164860.13
+1879,P0879,52,Female,Asthma,Mild,102,62.9,Dr. Brown,Private,1013427.08
+1880,P0880,26,Male,Diabetes,Critical,13,12.6,Dr. Taylor,Self-Pay,444185.2
+1881,P0881,64,Female,Gastroenteritis,Mild,36,4.3,Dr. Johnson,Private,797656.62
+1882,P0882,59,Female,Pneumonia,Mild,19,51.8,Dr. Wilson,Private,572917.46
+1883,P0883,56,Male,Heart Failure,Mild,144,34.5,Dr. Taylor,Self-Pay,250731.79
+1884,P0884,59,Female,Fracture,Mild,140,61.2,Dr. Brown,Self-Pay,727998.63
+1885,P0885,70,Female,Asthma,Mild,76,27.9,Dr. Brown,Public,86909.44
+1886,P0886,33,Male,Asthma,Severe,159,12.5,Dr. Wilson,Private,504810.81
+1887,P0887,53,Female,Gastroenteritis,Critical,16,60.3,Dr. Johnson,Public,662738.7
+1888,P0888,22,Male,Gastroenteritis,Mild,69,39.7,Dr. Brown,Public,531715.66
+1889,P0889,21,Male,Hypertension,Moderate,111,14.0,Dr. Adams,Self-Pay,902176.53
+1890,P0890,70,Female,Hypertension,Severe,46,52.0,Dr. Taylor,Private,996091.07
+1891,P0891,70,Female,Diabetes,Severe,119,37.0,Dr. Wilson,Private,928923.04
+1892,P0892,4,Female,Diabetes,Moderate,143,43.7,Dr. Smith,Self-Pay,60993.34
+1893,P0893,75,Female,Malaria,Mild,107,33.5,Dr. Smith,Public,245042.59
+1894,P0894,62,Female,Diabetes,Mild,175,59.8,Dr. Johnson,Self-Pay,650879.9
+1895,P0895,62,Female,Stroke,Severe,99,59.8,Dr. Adams,Private,1122764.12
+1896,P0896,24,Female,Gastroenteritis,Severe,21,51.2,Dr. Brown,Self-Pay,1004423.78
+1897,P0897,55,Male,Heart Failure,Mild,164,8.0,Dr. Smith,Private,1013403.39
+1898,P0898,9,Female,Stroke,Moderate,89,60.5,Dr. Johnson,Public,374301.71
+1899,P0899,3,Male,Pneumonia,Critical,172,48.5,Dr. Taylor,Private,523895.76
+1900,P0900,31,Female,Asthma,Severe,155,50.3,Dr. Adams,Public,572786.55
+1901,P0901,40,Female,Diabetes,Critical,60,26.5,Dr. Adams,Public,201485.33
+1902,P0902,36,Male,Asthma,Severe,138,63.4,Dr. Johnson,Private,51815.73
+1903,P0903,24,Female,Fracture,Moderate,90,52.4,Dr. Johnson,Private,1137079.94
+1904,P0904,6,Female,Malaria,Moderate,106,8.6,Dr. Brown,Public,300244.41
+1905,P0905,66,Male,Fracture,Moderate,169,29.7,Dr. Johnson,Self-Pay,299339.45
+1906,P0906,84,Female,Malaria,Mild,58,63.9,Dr. Brown,Private,113804.18
+1907,P0907,75,Female,Hypertension,Moderate,119,3.9,Dr. Brown,Public,1115281.69
+1908,P0908,4,Female,Asthma,Severe,143,69.2,Dr. Wilson,Public,701988.48
+1909,P0909,79,Male,Malaria,Mild,92,49.1,Dr. Adams,Self-Pay,805438.68
+1910,P0910,6,Female,Appendicitis,Severe,53,45.6,Dr. Taylor,Private,1095218.61
+1911,P0911,51,Female,Stroke,Moderate,153,19.8,Dr. Adams,Public,424559.9
+1912,P0912,62,Female,Malaria,Critical,119,18.3,Dr. Adams,Self-Pay,751486.16
+1913,P0913,57,Female,Malaria,Mild,67,67.9,Dr. Wilson,Public,60977.35
+1914,P0914,66,Male,Stroke,Mild,108,21.8,Dr. Brown,Private,236325.45
+1915,P0915,79,Male,Asthma,Moderate,87,55.9,Dr. Brown,Self-Pay,1000026.28
+1916,P0916,75,Female,Asthma,Mild,107,28.6,Dr. Johnson,Public,923620.5
+1917,P0917,8,Female,Stroke,Severe,160,10.5,Dr. Wilson,Self-Pay,430511.59
+1918,P0918,26,Male,Fracture,Severe,21,1.3,Dr. Johnson,Private,461520.59
+1919,P0919,51,Male,Appendicitis,Mild,10,39.4,Dr. Wilson,Self-Pay,647262.0
+1920,P0920,45,Female,Heart Failure,Moderate,151,70.3,Dr. Johnson,Private,15285.59
+1921,P0921,44,Male,Pneumonia,Moderate,32,26.9,Dr. Smith,Public,300874.54
+1922,P0922,5,Female,Appendicitis,Moderate,42,26.0,Dr. Adams,Private,261754.69
+1923,P0923,70,Male,Asthma,Critical,123,25.1,Dr. Adams,Public,311822.29
+1924,P0924,26,Male,Heart Failure,Severe,41,37.7,Dr. Taylor,Public,969998.42
+1925,P0925,68,Male,Hypertension,Moderate,119,32.0,Dr. Brown,Private,346413.52
+1926,P0926,19,Male,Diabetes,Severe,72,63.4,Dr. Taylor,Public,241952.77
+1927,P0927,84,Female,Malaria,Moderate,47,36.6,Dr. Smith,Self-Pay,612552.2
+1928,P0928,20,Male,Stroke,Critical,168,36.8,Dr. Taylor,Public,1040789.37
+1929,P0929,12,Male,Stroke,Moderate,62,10.4,Dr. Adams,Private,300999.4
+1930,P0930,47,Female,Malaria,Severe,17,70.8,Dr. Brown,Self-Pay,108065.45
+1931,P0931,1,Male,Diabetes,Severe,56,18.4,Dr. Smith,Self-Pay,437339.61
+1932,P0932,14,Male,Pneumonia,Mild,62,5.7,Dr. Adams,Public,900967.41
+1933,P0933,64,Female,Diabetes,Severe,36,47.9,Dr. Johnson,Public,667568.3
+1934,P0934,38,Male,Heart Failure,Mild,109,43.1,Dr. Wilson,Private,982900.14
+1935,P0935,37,Female,Diabetes,Mild,87,30.2,Dr. Smith,Self-Pay,1152116.69
+1936,P0936,11,Female,Heart Failure,Mild,103,30.7,Dr. Brown,Private,954305.03
+1937,P0937,77,Female,Diabetes,Critical,108,56.6,Dr. Taylor,Public,730506.65
+1938,P0938,3,Female,Pneumonia,Severe,32,14.5,Dr. Taylor,Self-Pay,599609.78
+1939,P0939,33,Male,Pneumonia,Severe,133,59.1,Dr. Smith,Private,62481.87
+1940,P0940,6,Female,Asthma,Severe,174,46.9,Dr. Brown,Private,1181421.54
+1941,P0941,50,Male,Malaria,Moderate,52,30.5,Dr. Smith,Private,469425.13
+1942,P0942,10,Male,Pneumonia,Critical,44,33.2,Dr. Brown,Private,195390.43
+1943,P0943,5,Male,Heart Failure,Moderate,101,18.9,Dr. Taylor,Private,805049.99
+1944,P0944,23,Male,Pneumonia,Moderate,118,54.3,Dr. Adams,Self-Pay,351881.62
+1945,P0945,10,Male,Asthma,Mild,136,37.2,Dr. Johnson,Private,709147.25
+1946,P0946,44,Male,Stroke,Severe,170,23.4,Dr. Adams,Self-Pay,710319.97
+1947,P0947,2,Male,Heart Failure,Severe,159,43.1,Dr. Johnson,Private,543189.84
+1948,P0948,13,Male,Asthma,Moderate,141,71.7,Dr. Taylor,Public,1005800.56
+1949,P0949,40,Male,Fracture,Mild,115,31.6,Dr. Adams,Public,328985.97
+1950,P0950,2,Male,Fracture,Severe,148,66.3,Dr. Adams,Private,546629.62
+1951,P0951,84,Female,Hypertension,Mild,80,25.2,Dr. Smith,Public,652165.17
+1952,P0952,65,Female,Diabetes,Severe,35,4.4,Dr. Wilson,Self-Pay,801395.29
+1953,P0953,63,Female,Malaria,Critical,123,15.1,Dr. Taylor,Private,944006.64
+1954,P0954,73,Male,Gastroenteritis,Moderate,146,30.4,Dr. Brown,Self-Pay,482846.63
+1955,P0955,17,Female,Appendicitis,Mild,29,16.2,Dr. Taylor,Private,780565.63
+1956,P0956,9,Female,Asthma,Severe,38,0.5,Dr. Brown,Public,193473.98
+1957,P0957,75,Female,Stroke,Severe,71,65.9,Dr. Brown,Self-Pay,1120188.0
+1958,P0958,15,Male,Appendicitis,Moderate,156,60.8,Dr. Johnson,Public,468924.69
+1959,P0959,24,Male,Stroke,Critical,122,53.6,Dr. Brown,Public,879482.89
+1960,P0960,38,Male,Appendicitis,Mild,77,12.5,Dr. Brown,Private,39104.18
+1961,P0961,35,Male,Asthma,Moderate,30,9.1,Dr. Smith,Self-Pay,258146.76
+1962,P0962,49,Female,Gastroenteritis,Severe,152,5.3,Dr. Adams,Public,592192.82
+1963,P0963,69,Female,Appendicitis,Severe,108,52.3,Dr. Taylor,Private,1055729.17
+1964,P0964,62,Female,Asthma,Mild,14,66.9,Dr. Taylor,Private,639797.35
+1965,P0965,60,Female,Pneumonia,Severe,71,31.3,Dr. Brown,Private,1116896.52
+1966,P0966,50,Male,Gastroenteritis,Moderate,156,9.0,Dr. Wilson,Public,588299.32
+1967,P0967,78,Male,Heart Failure,Moderate,9,37.1,Dr. Taylor,Private,596182.18
+1968,P0968,75,Male,Stroke,Mild,31,25.4,Dr. Brown,Self-Pay,156899.94
+1969,P0969,9,Female,Fracture,Severe,117,27.3,Dr. Johnson,Self-Pay,966147.65
+1970,P0970,34,Male,Diabetes,Mild,19,44.9,Dr. Johnson,Public,307654.01
+1971,P0971,76,Male,Fracture,Mild,167,51.9,Dr. Johnson,Self-Pay,1081040.8
+1972,P0972,35,Female,Gastroenteritis,Mild,109,8.4,Dr. Brown,Private,1094326.7
+1973,P0973,1,Female,Heart Failure,Severe,48,3.0,Dr. Smith,Public,1132822.48
+1974,P0974,40,Male,Stroke,Moderate,30,71.6,Dr. Wilson,Private,631473.13
+1975,P0975,64,Male,Heart Failure,Severe,179,17.1,Dr. Brown,Public,817356.13
+1976,P0976,22,Male,Appendicitis,Mild,166,4.3,Dr. Smith,Public,937541.32
+1977,P0977,60,Male,Stroke,Moderate,99,14.1,Dr. Smith,Private,170252.32
+1978,P0978,64,Male,Appendicitis,Moderate,88,3.3,Dr. Taylor,Self-Pay,727134.28
+1979,P0979,72,Male,Asthma,Severe,144,28.5,Dr. Brown,Self-Pay,55643.01
+1980,P0980,11,Female,Gastroenteritis,Critical,136,57.9,Dr. Brown,Public,604615.81
+1981,P0981,14,Female,Asthma,Mild,91,24.9,Dr. Smith,Private,198488.58
+1982,P0982,60,Female,Hypertension,Moderate,180,32.3,Dr. Smith,Private,231763.67
+1983,P0983,30,Male,Heart Failure,Mild,116,48.8,Dr. Smith,Public,447581.37
+1984,P0984,35,Female,Appendicitis,Moderate,133,36.9,Dr. Taylor,Self-Pay,527438.04
+1985,P0985,85,Male,Pneumonia,Mild,93,62.1,Dr. Brown,Private,753459.32
+1986,P0986,37,Male,Asthma,Mild,70,62.4,Dr. Smith,Self-Pay,103197.68
+1987,P0987,5,Female,Hypertension,Moderate,162,1.2,Dr. Johnson,Self-Pay,611874.74
+1988,P0988,83,Male,Malaria,Moderate,135,56.1,Dr. Brown,Public,231410.78
+1989,P0989,78,Male,Fracture,Mild,126,33.4,Dr. Taylor,Public,695160.58
+1990,P0990,26,Female,Stroke,Severe,153,71.2,Dr. Johnson,Self-Pay,770324.47
+1991,P0991,62,Female,Hypertension,Moderate,88,35.1,Dr. Adams,Private,674700.47
+1992,P0992,4,Female,Gastroenteritis,Mild,120,71.1,Dr. Brown,Private,889880.18
+1993,P0993,89,Male,Asthma,Severe,120,54.5,Dr. Adams,Public,412696.95
+1994,P0994,42,Female,Gastroenteritis,Mild,42,18.3,Dr. Smith,Self-Pay,921651.31
+1995,P0995,89,Female,Fracture,Moderate,147,39.0,Dr. Taylor,Private,527828.99
+1996,P0996,18,Male,Pneumonia,Moderate,114,71.4,Dr. Smith,Private,588758.63
+1997,P0997,40,Female,Heart Failure,Mild,50,61.8,Dr. Taylor,Public,783001.02
+1998,P0998,72,Female,Heart Failure,Mild,29,7.5,Dr. Wilson,Self-Pay,36754.69
+1999,P0999,39,Female,Gastroenteritis,Moderate,25,51.0,Dr. Smith,Private,789983.15
+2000,P1000,14,Male,Appendicitis,Critical,125,25.2,Dr. Adams,Public,748023.4
+2001,P1001,32,Male,Pneumonia,Moderate,126,1.0,Dr. Taylor,Private,382168.83
