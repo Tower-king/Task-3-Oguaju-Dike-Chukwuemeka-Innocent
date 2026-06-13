@@ -1,4 +1,5 @@
 📋 Project Overview
+
 This project demonstrates structured querying and exploratory data analysis of an Emergency Room visits dataset using SQL. 
 The dataset was imported into a SQLite database and queried to extract clinical and operational insights — including patient demographics, diagnosis frequency,
 billing patterns, and physician workload.
@@ -6,10 +7,15 @@ billing patterns, and physician workload.
 📁 Files
 File
 Description
+
 ER_Visits_1001_Rows.csv
+
 Source dataset imported into SQLite
+
 hospital.db
+
 SQLite database containing the ER_Visits table
+
 Spl_queries.sql
 
 🔍 SQL Queries & Business Questions
